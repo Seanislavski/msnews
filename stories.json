@@ -93,6 +93,29 @@
       "why": "What works for one person may not match the average, which is a reason to track your own results.",
       "source": "University of Wollongong",
       "url": "https://www.uow.edu.au/media/2026/study-explores-role-of-diet-exercise-and-oral-microbiome-in-multiple-sclerosis-.php"
+    },
+    {
+      "id": "2026-10-15-fenebrutinib-priority-review",
+      "added": "2026-10-15",
+      "order": 9,
+      "tag": "Treatment",
+      "when": "10/01/2026",
+      "title": "FDA gives priority review to fenebrutinib pill for two MS types",
+      "summary": "The FDA will review Roche's oral drug fenebrutinib for relapsing MS and primary progressive MS, with a decision expected around spring 2027. It is not approved yet.",
+      "why": "It shows a possible new pill option for primary progressive MS is under review.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/"
+    },
+    {
+      "id": "2026-10-15-ms-society-end-ms-campaign",
+      "added": "2026-10-15",
+      "order": 10,
+      "tag": "Research",
+      "when": "10/01/2026",
+      "title": "National MS Society launches $1 billion Campaign to End MS",
+      "summary": "The Society says it is starting a five-year, $1 billion fundraising campaign for MS research, care and support. This is company-style news from the Society's own press release.",
+      "source": "BioSpace (press release)",
+      "url": "https://www.biospace.com/press-releases/national-ms-society-launches-campaign-to-end-ms-declaring-for-the-first-time-ending-ms-is-within-reach"
     }
   ]
 }

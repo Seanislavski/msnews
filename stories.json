@@ -1,0 +1,98 @@
+{
+  "lastUpdated": "2026-10-15",
+  "stories": [
+    {
+      "id": "2026-10-15-holism-lifestyle",
+      "added": "2026-10-15",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "January 2026",
+      "title": "A healthier lifestyle went with less fatigue over 5 years",
+      "summary": "A study followed 839 people with MS for five years. Those who scored higher on activity, diet quality, meditation, not smoking and vitamin D had less fatigue, depression and disability.",
+      "why": "It shows a link, not proof that one causes the other. But it's a good reason to track your own habits.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41275836/"
+    },
+    {
+      "id": "2026-10-15-light-activity",
+      "added": "2026-10-15",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "2025",
+      "title": "Light activity was tied to lower fatigue",
+      "summary": "In people newly diagnosed with MS, light physical activity (like easy walking) was the measure most strongly linked to lower fatigue, even after accounting for disability.",
+      "why": "You don't have to start with hard exercise. Gentle movement may help with fatigue.",
+      "source": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528108/"
+    },
+    {
+      "id": "2026-10-15-mediterranean-diet",
+      "added": "2026-10-15",
+      "order": 3,
+      "tag": "Living with MS",
+      "when": "2025",
+      "title": "A Mediterranean-style diet eased fatigue in a small trial",
+      "summary": "A two-month trial with 90 people with MS compared diets. A modified Mediterranean diet (vegetables, whole grains, fish, olive oil) went with less fatigue.",
+      "why": "Small and early, but it points the same way as general healthy eating.",
+      "source": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11992347/"
+    },
+    {
+      "id": "2026-10-15-remibrutinib",
+      "added": "2026-10-15",
+      "order": 4,
+      "tag": "Treatment",
+      "when": "10/07/2026",
+      "title": "A new MS pill cut relapses in two large trials",
+      "summary": "Novartis says its pill remibrutinib (a BTK inhibitor) reduced relapses more than teriflunomide in two Phase III trials of relapsing MS. Full results come at a conference this month.",
+      "why": "This is company news, and the full data isn't out yet. Something to ask your neurologist about later.",
+      "source": "Novartis via GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/10/07/3376328/0/en/novartis-advances-multiple-sclerosis-innovation-with-late-breaking-remibrutinib-and-broad-portfolio-data-at-mstoronto2026.html"
+    },
+    {
+      "id": "2026-10-15-btk-review",
+      "added": "2026-10-15",
+      "order": 5,
+      "tag": "Research",
+      "when": "June 2026",
+      "title": "BTK drugs: fewer relapses, but repair isn't proven yet",
+      "summary": "A review pooling trials found BTK inhibitors cut relapses and new MRI lesions. Disability didn't change in the short trials, and the hope that they help repair myelin comes only from lab and animal work so far.",
+      "source": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13297389/"
+    },
+    {
+      "id": "2026-10-15-ebv-anti-cd20",
+      "added": "2026-10-15",
+      "order": 6,
+      "tag": "Research",
+      "when": "10/13/2026",
+      "title": "Some MS drugs may work partly by calming the immune response to a common virus",
+      "summary": "Epstein-Barr virus (EBV) is strongly linked to MS. A new study suggests anti-CD20 treatments may work partly by lowering the immune system's reaction to EBV.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/13/ms-therapy-work-part-lowering-ebv-immune-response"
+    },
+    {
+      "id": "2026-10-15-mstoronto2026",
+      "added": "2026-10-15",
+      "order": 7,
+      "tag": "Events",
+      "when": "10/21-10/23/2026",
+      "title": "The year's biggest MS conference is next week",
+      "summary": "MSToronto2026, the joint meeting of the American and European MS research groups, runs October 21 to 23. Expect a wave of new results, including the full remibrutinib data.",
+      "source": "Neurology Advisor",
+      "url": "https://neurologyadvisor.com/features/mstoronto2026-ectrims-actrims-2026"
+    },
+    {
+      "id": "2026-10-15-oral-microbiome",
+      "added": "2026-10-15",
+      "order": 8,
+      "tag": "Research",
+      "when": "2026",
+      "title": "Could mouth bacteria explain why diet helps some people more?",
+      "summary": "A new Australian study will look at whether bacteria in the mouth explain why people with MS respond differently to healthy eating and exercise. It is just starting, so there are no results yet.",
+      "why": "What works for one person may not match the average, which is a reason to track your own results.",
+      "source": "University of Wollongong",
+      "url": "https://www.uow.edu.au/media/2026/study-explores-role-of-diet-exercise-and-oral-microbiome-in-multiple-sclerosis-.php"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MS News Daily</title>
+<meta name="description" content="The most interesting multiple sclerosis research and living-with-MS stories, updated daily, in large easy-to-read text.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* Layout: one calm reading column, one story at a time, built for low vision. */
+:root {
+  --bg: #F3F5F8;
+  --surface: #FFFFFF;
+  --fg: #11161E;
+  --muted: #4B5463;
+  --line: #D6DBE3;
+  --accent: #B84A00;       /* MS awareness orange, deepened for contrast */
+  --accent-soft: #FBE8DA;
+  --font: "Atkinson Hyperlegible", "Verdana", "Segoe UI", sans-serif;
+  --size: 21px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #11141A; --surface: #191D25; --fg: #F1F3F7; --muted: #B3BBC8;
+    --line: #2C323D; --accent: #FF9B52; --accent-soft: #3A2516; color-scheme: dark;
+  }
+}
+:root.big { --size: 26px; }
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: var(--size);
+  line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px;
+}
+.wrap { max-width: 34em; margin: 0 auto; display: grid; gap: 1.4em; }
+
+header { display: grid; gap: .5em; }
+.top { display: flex; flex-wrap: wrap; gap: .6em 1em; align-items: center; justify-content: space-between; }
+h1 { margin: 0; font-size: 1.7em; line-height: 1.15; text-wrap: balance; letter-spacing: -.01em; }
+h1 span { color: var(--accent); }
+.updated { margin: 0; color: var(--muted); font-size: .85em; }
+
+button.size {
+  font: inherit; font-size: .8em; font-weight: 700;
+  color: var(--fg); background: var(--surface);
+  border: 2px solid var(--line); border-radius: 10px;
+  padding: .35em .8em; cursor: pointer; min-height: 44px;
+}
+button.size:hover { border-color: var(--accent); }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+
+.filters { display: flex; flex-wrap: wrap; gap: .5em; }
+.filters button {
+  font: inherit; font-size: .78em; font-weight: 700;
+  background: transparent; color: var(--muted);
+  border: 2px solid var(--line); border-radius: 999px;
+  padding: .3em .9em; cursor: pointer; min-height: 44px;
+}
+.filters button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+
+.list { display: grid; gap: 1.1em; }
+article {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.05em 1.15em 1.15em;
+  display: grid; gap: .45em; min-width: 0;
+}
+.meta { display: flex; flex-wrap: wrap; gap: .3em .8em; align-items: center; font-size: .72em; color: var(--muted); }
+.tag {
+  font-weight: 700; text-transform: uppercase; letter-spacing: .07em;
+  color: var(--accent); background: var(--accent-soft);
+  padding: .15em .6em; border-radius: 6px;
+}
+.new { font-weight: 700; color: var(--fg); }
+article h2 { margin: 0; font-size: 1.12em; line-height: 1.3; text-wrap: balance; }
+article p { margin: 0; }
+.why { border-left: 4px solid var(--accent); padding-left: .7em; }
+.why b { color: var(--accent); }
+.src { font-size: .8em; }
+.src a { color: var(--accent); font-weight: 700; text-underline-offset: 3px; overflow-wrap: anywhere; }
+
+.empty { color: var(--muted); background: var(--surface); border: 1px dashed var(--line); border-radius: 14px; padding: 1.2em; margin: 0; }
+footer { color: var(--muted); font-size: .75em; border-top: 1px solid var(--line); padding-top: 1em; }
+@media (prefers-reduced-motion: no-preference) { article { animation: in .25s ease-out both; } }
+@keyframes in { from { transform: translateY(4px); } to { transform: none; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="top">
+      <h1>MS News <span>Daily</span></h1>
+      <button class="size" id="sizeBtn" type="button" aria-pressed="false">Bigger text</button>
+    </div>
+    <p class="updated" id="updated">Loading today's stories…</p>
+  </header>
+
+  <nav class="filters" id="filters" aria-label="Filter stories">
+    <button type="button" data-tag="all" aria-pressed="true">All</button>
+    <button type="button" data-tag="Living with MS" aria-pressed="false">Living with MS</button>
+    <button type="button" data-tag="Treatment" aria-pressed="false">Treatment</button>
+    <button type="button" data-tag="Research" aria-pressed="false">Research</button>
+    <button type="button" data-tag="Events" aria-pressed="false">Events</button>
+  </nav>
+
+  <main class="list" id="list">
+    <p class="empty">Stories appear here once a day. The newest are at the top, and each one links to where it came from.</p>
+  </main>
+
+  <footer>New stories are added once a day. This page shares news; it is not medical advice. Talk to your care team before changing treatment.</footer>
+</div>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var sizeBtn = document.getElementById('sizeBtn');
+  var listEl = document.getElementById('list');
+  var updatedEl = document.getElementById('updated');
+  var filterEl = document.getElementById('filters');
+  var stories = [];
+  var activeTag = 'all';
+
+  function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+
+  function setBig(on) {
+    root.classList.toggle('big', on);
+    sizeBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    sizeBtn.textContent = on ? 'Normal text' : 'Bigger text';
+  }
+  setBig(store('ms-big') === '1');
+  sizeBtn.addEventListener('click', function () {
+    var on = !root.classList.contains('big');
+    setBig(on); store('ms-big', on ? '1' : '0');
+  });
+
+  var savedTag = store('ms-tag');
+  if (savedTag) activeTag = savedTag;
+  function syncFilters() {
+    filterEl.querySelectorAll('button').forEach(function (b) {
+      b.setAttribute('aria-pressed', b.dataset.tag === activeTag ? 'true' : 'false');
+    });
+  }
+  syncFilters();
+  filterEl.addEventListener('click', function (e) {
+    var b = e.target.closest('button'); if (!b) return;
+    activeTag = b.dataset.tag; store('ms-tag', activeTag); syncFilters(); render();
+  });
+
+  function fmtDate(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+    return m ? m[2] + '/' + m[3] + '/' + m[1] : (iso || '');
+  }
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+
+  function render() {
+    var shown = stories.filter(function (s) { return activeTag === 'all' || s.tag === activeTag; });
+    listEl.replaceChildren();
+    if (!shown.length) {
+      listEl.appendChild(el('p', 'empty', stories.length
+        ? 'No stories in this group yet. Choose All to see everything.'
+        : 'Stories appear here once a day. The newest are at the top, and each one links to where it came from.'));
+      return;
+    }
+    var newest = stories.reduce(function (m, s) { return (s.added || '') > m ? s.added : m; }, '');
+    shown.forEach(function (s) {
+      var a = el('article');
+      var meta = el('div', 'meta');
+      if (s.tag) meta.appendChild(el('span', 'tag', s.tag));
+      if (s.when) meta.appendChild(el('span', null, s.when));
+      if (s.added && s.added === newest) meta.appendChild(el('span', 'new', 'New'));
+      a.appendChild(meta);
+      a.appendChild(el('h2', null, s.title || 'Untitled story'));
+      if (s.summary) a.appendChild(el('p', null, s.summary));
+      if (s.why) {
+        var w = el('p', 'why');
+        w.appendChild(el('b', null, 'Why it matters: '));
+        w.appendChild(document.createTextNode(s.why));
+        a.appendChild(w);
+      }
+      if (s.url && /^https:\/\//.test(s.url)) {
+        var p = el('p', 'src');
+        var link = el('a', null, (s.source || 'Read the source') + ' →');
+        link.href = s.url; link.target = '_blank'; link.rel = 'noopener';
+        p.appendChild(link); a.appendChild(p);
+      }
+      listEl.appendChild(a);
+    });
+  }
+
+  fetch('stories.json?cb=' + Date.now())
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (data) {
+      updatedEl.textContent = data.lastUpdated ? 'Last updated ' + fmtDate(data.lastUpdated) : 'Updated once a day.';
+      stories = (data.stories || []).slice().sort(function (a, b) {
+        if ((b.added || '') !== (a.added || '')) return (b.added || '') < (a.added || '') ? -1 : 1;
+        return (a.order || 0) - (b.order || 0);
+      });
+      render();
+    })
+    .catch(function () { updatedEl.textContent = 'Stories could not load. Reload the page to try again.'; });
+})();
+</script>
+</body>
+</html>

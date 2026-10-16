@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-16",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -116,6 +116,65 @@
       "summary": "The Society says it is starting a five-year, $1 billion fundraising campaign for MS research, care and support. This is company-style news from the Society's own press release.",
       "source": "BioSpace (press release)",
       "url": "https://www.biospace.com/press-releases/national-ms-society-launches-campaign-to-end-ms-declaring-for-the-first-time-ending-ms-is-within-reach"
+    },
+    {
+      "id": "2026-10-16-atlas-3-million",
+      "added": "2026-10-16",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/01/2026",
+      "title": "About 3.1 million people worldwide now live with MS",
+      "summary": "The MS International Federation updated its Atlas of MS. It estimates 3.1 million people have MS, up from about 2.8 million in 2020. The authors say better diagnosis may explain much of the rise.",
+      "why": "It shows how many people share this condition, and that more are being counted.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/3-million-people-living-ms-globally-report-shows/"
+    },
+    {
+      "id": "2026-10-16-neuroms-rehab",
+      "added": "2026-10-16",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "10/07/2026",
+      "title": "A short thinking-skills program showed early promise",
+      "summary": "In a small feasibility trial of 79 people, up to six sessions of personalized rehab helped people feel better about planning and managing fatigue. Results were self-reported, so this is an early signal, not proof.",
+      "why": "A larger trial is now under way.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/07/rehab-program-help-ms-patients-manage-cognitive-issues/"
+    },
+    {
+      "id": "2026-10-16-retina-thinking-speed",
+      "added": "2026-10-16",
+      "order": 3,
+      "tag": "Research",
+      "when": "10/15/2026",
+      "title": "Thinner retinas were linked to slower thinking speed in MS",
+      "summary": "In a small study of 70 adults, thinning of the eye's nerve cell layer went with slower information processing, apart from physical disability. The authors say larger studies are needed.",
+      "why": "Simple eye scans may one day help track brain changes.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/15/eye-scans-link-retinal-thinning-slower-cognitive-processing-ms/"
+    },
+    {
+      "id": "2026-10-16-ocb-lesions-memory",
+      "added": "2026-10-16",
+      "order": 4,
+      "tag": "Research",
+      "when": "10/15/2026",
+      "title": "More spinal fluid bands went with more brain lesions",
+      "summary": "In 62 people newly diagnosed with relapsing MS, higher oligoclonal band counts were linked to lesions in more brain areas and slightly poorer verbal memory. This is a link, not proof, and the authors say it is not a standalone test.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/15/ocb-counts-tied-broader-mri-lesions-newly-diagnosed-ms/"
+    },
+    {
+      "id": "2026-10-16-lucid-ms-phase2",
+      "added": "2026-10-16",
+      "order": 5,
+      "tag": "Treatment",
+      "when": "10/08/2026",
+      "title": "Myelin-protecting pill nears a progressive MS trial",
+      "summary": "Company news: Quantum Biopharma is preparing a Phase 2 trial of Lucid-MS, cleared by the FDA. So far it has helped mice with MS-like symptoms and passed safety checks in healthy volunteers.",
+      "why": "It has not yet been tested in people with MS.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/08/new-therapy-moves-closer-phase-2-testing-progressive-ms/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16",
+  "lastUpdated": "2026-10-17",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -175,6 +175,41 @@
       "why": "It has not yet been tested in people with MS.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/08/new-therapy-moves-closer-phase-2-testing-progressive-ms/"
+    },
+    {
+      "id": "2026-10-17-nfl-progression",
+      "added": "2026-10-17",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/16/2026",
+      "title": "Blood marker of nerve damage only partly predicted MS progression",
+      "summary": "In 262 people with early MS who started interferon beta-1a, blood levels of neurofilament light chain predicted progression only until MRI results were counted. Rising levels in year two went with faster brain shrinkage later.",
+      "why": "It shows a blood test may help track the disease, but it is not ready to guide care on its own.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/16/blood-levels-key-protein-help-predict-ms-progression/"
+    },
+    {
+      "id": "2026-10-17-pira-predictors",
+      "added": "2026-10-17",
+      "order": 2,
+      "tag": "Research",
+      "when": "10/13/2026",
+      "title": "Fatigue score and a spinal fluid protein tied to hidden MS progression",
+      "summary": "In a small study of 81 people with relapsing MS, a fatigue questionnaire score and a protein in spinal fluid were linked to worsening without relapses. The authors say the findings are exploratory and need to be confirmed in other groups.",
+      "source": "Frontiers in Neurology",
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1902455/full"
+    },
+    {
+      "id": "2026-10-17-briumvi-comparison",
+      "added": "2026-10-17",
+      "order": 3,
+      "tag": "Treatment",
+      "when": "10/14/2026",
+      "title": "Indirect comparison suggests Briumvi may slow disability more than two rivals",
+      "summary": "A statistical comparison of separate trials linked Briumvi to a lower risk of disability progression than Ocrevus or Kesimpta. It was funded by a company that sells the drug, and no head-to-head trial has tested it.",
+      "why": "Treat it as a hint, not proof, and talk with your neurologist before drawing conclusions.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/14/briumvi-outperform-ms-therapies-indirect-comparison/"
     }
   ]
 }

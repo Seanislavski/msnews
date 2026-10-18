@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17",
+  "lastUpdated": "2026-10-18",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -210,6 +210,52 @@
       "why": "Treat it as a hint, not proof, and talk with your neurologist before drawing conclusions.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/14/briumvi-outperform-ms-therapies-indirect-comparison/"
+    },
+    {
+      "id": "2026-10-18-ear-nerve-stimulation-hand",
+      "added": "2026-10-18",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "10/09/2026",
+      "title": "Ear-based nerve stimulation is being tested for hand problems in MS",
+      "summary": "A University of Colorado trial of about 70 adults is testing mild stimulation through the ear during hand exercises. No results yet; the main goal is safety.",
+      "why": "Hopes come from animal and stroke research, so it is unproven in people with MS.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/09/noninvasive-nerve-stimulation-may-improve-hand-function-ms/"
+    },
+    {
+      "id": "2026-10-18-mini-brain-myelin",
+      "added": "2026-10-18",
+      "order": 2,
+      "tag": "Research",
+      "when": "10/08/2026",
+      "title": "Lab-grown 3D mini-brain may help test drugs that repair MS damage",
+      "summary": "Researchers built a rice-grain-sized model from human stem cells to study myelin damage and repair. This is lab work only, not tested in people.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/08/new-3d-mini-brain-offers-hope-drugs-repair-myelin-ms/"
+    },
+    {
+      "id": "2026-10-18-activity-sun-ms-risk",
+      "added": "2026-10-18",
+      "order": 3,
+      "tag": "Research",
+      "when": "10/07/2026",
+      "title": "Physical activity and MS risk: a possible link only with low sun exposure",
+      "summary": "In a Swedish study of about 3,000 people with MS and 5,800 without, activity alone was not clearly linked to MS risk. Among people with low sun exposure, the most active had 24% lower odds, a link, not proof.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/07/physical-activity-tied-lower-ms-risk-low-sun-exposure/"
+    },
+    {
+      "id": "2026-10-18-parental-stress-pediatric-ms",
+      "added": "2026-10-18",
+      "order": 4,
+      "tag": "Living with MS",
+      "when": "10/13/2026",
+      "title": "Parental stress may help explain low self-esteem in teens with MS",
+      "summary": "In a small study of 30 Israeli children and teens with MS, fatigue and slower thinking were tied to lower self-esteem, partly through parental stress. It was a single snapshot, so it cannot show cause.",
+      "why": "Support for families may matter as much as support for the child.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/13/parental-stress-may-link-disease-burden-self-esteem-poms/"
     }
   ]
 }

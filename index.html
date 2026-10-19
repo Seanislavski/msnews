@@ -207,7 +207,12 @@ footer { color: var(--muted); font-size: .75em; border-top: 1px solid var(--line
   fetch('stories.json?cb=' + Date.now())
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
-      updatedEl.textContent = data.lastUpdated ? 'Last updated ' + fmtDate(data.lastUpdated) : 'Updated once a day.';
+      var line = data.lastUpdated ? 'Last updated ' + fmtDate(data.lastUpdated) : 'Updated once a day.';
+      var now = new Date();
+      var today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+      if (data.lastChecked === today) line += ' · Checked today';
+      else if (data.lastChecked && data.lastChecked > (data.lastUpdated || '')) line += ' · Checked ' + fmtDate(data.lastChecked);
+      updatedEl.textContent = line;
       stories = (data.stories || []).slice().sort(function (a, b) {
         if ((b.added || '') !== (a.added || '')) return (b.added || '') < (a.added || '') ? -1 : 1;
         return (a.order || 0) - (b.order || 0);

@@ -162,6 +162,11 @@ footer { color: var(--muted); font-size: .75em; border-top: 1px solid var(--line
     return m ? m[2] + '/' + m[3] + '/' + m[1] : (iso || '');
   }
 
+  function todayIso() {
+    var now = new Date();
+    return now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+  }
+
   function el(tag, cls, text) {
     var n = document.createElement(tag);
     if (cls) n.className = cls;
@@ -178,13 +183,13 @@ footer { color: var(--muted); font-size: .75em; border-top: 1px solid var(--line
         : 'Stories appear here once a day. The newest are at the top, and each one links to where it came from.'));
       return;
     }
-    var newest = stories.reduce(function (m, s) { return (s.added || '') > m ? s.added : m; }, '');
+    var today = todayIso();
     shown.forEach(function (s) {
       var a = el('article');
       var meta = el('div', 'meta');
       if (s.tag) meta.appendChild(el('span', 'tag', s.tag));
       if (s.when) meta.appendChild(el('span', null, s.when));
-      if (s.added && s.added === newest) meta.appendChild(el('span', 'new', 'New'));
+      if (s.added && s.added === today) meta.appendChild(el('span', 'new', 'New'));
       a.appendChild(meta);
       a.appendChild(el('h2', null, s.title || 'Untitled story'));
       if (s.summary) a.appendChild(el('p', null, s.summary));
@@ -208,9 +213,7 @@ footer { color: var(--muted); font-size: .75em; border-top: 1px solid var(--line
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
       var line = data.lastUpdated ? 'Last updated ' + fmtDate(data.lastUpdated) : 'Updated once a day.';
-      var now = new Date();
-      var today = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
-      if (data.lastChecked === today) line += ' · Checked today';
+      if (data.lastChecked === todayIso()) line += ' · Checked today';
       else if (data.lastChecked && data.lastChecked > (data.lastUpdated || '')) line += ' · Checked ' + fmtDate(data.lastChecked);
       updatedEl.textContent = line;
       stories = (data.stories || []).slice().sort(function (a, b) {

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18",
-  "lastChecked": "2026-10-19",
+  "lastUpdated": "2026-10-20",
+  "lastChecked": "2026-10-20",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -257,6 +257,29 @@
       "why": "Support for families may matter as much as support for the child.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/13/parental-stress-may-link-disease-burden-self-esteem-poms/"
+    },
+    {
+      "id": "2026-10-20-melatonin-review",
+      "added": "2026-10-20",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/19/2026",
+      "title": "Melatonin for MS: benefits still unclear, review finds",
+      "summary": "A review of 10 studies with 435 people with MS found no clear proof that melatonin supplements reduce relapses, disability or new MRI activity. High doses raised liver concerns.",
+      "why": "It shows melatonin is not a proven MS treatment, though it is often sold for sleep.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/"
+    },
+    {
+      "id": "2026-10-20-generic-ms-drugs-biomarkers",
+      "added": "2026-10-20",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "10/12/2026",
+      "title": "Generic MS pills showed more varied biomarker results than brand names",
+      "summary": "A look back at 1,124 people with relapsing-remitting MS found more variable blood protein markers with generic teriflunomide, fingolimod and dimethyl fumarate. The study had no data on symptoms or scans, so what it means for patients is unclear.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/12/generic-ms-treatments-tied-less-consistent-biomarker-profiles/"
     }
   ]
 }

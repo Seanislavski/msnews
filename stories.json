@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20",
-  "lastChecked": "2026-10-20",
+  "lastUpdated": "2026-10-21",
+  "lastChecked": "2026-10-21",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -292,6 +292,30 @@
       "why": "It is not a reason to change treatment; talk with your neurologist about any concerns.",
       "source": "Frontiers in Neurology",
       "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1845881/full"
+    },
+    {
+      "id": "2026-10-21-stem-cell-rim-lesions",
+      "added": "2026-10-21",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/20/2026",
+      "title": "Stem cell transplant may calm lingering inflammation in MS, small study suggests",
+      "summary": "In 30 adults with MS who had a stem cell transplant, some MRI markers of long-lasting inflammation (called rim lesions) faded and no new ones appeared. The study was small, had no comparison group, and the authors say larger studies are needed.",
+      "why": "It hints at how doctors might one day tell who benefits most from a transplant.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/20/stem-cell-transplant-may-help-reduce-chronic-inflammation-ms/"
+    },
+    {
+      "id": "2026-10-21-ocrelizumab-kids-mri",
+      "added": "2026-10-21",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "10/18/2026",
+      "title": "Ocrevus matched fingolimod on relapses in children with MS, with fewer new lesions",
+      "summary": "In a phase 3 trial of 187 children and teens with relapsing MS, Ocrevus worked about as well as fingolimod for relapses and led to fewer new brain lesions on MRI. Infusion reactions were common, mostly mild or moderate. The trial was run by the drug's maker, Roche.",
+      "why": "Children with MS have had few treatment studies, so more data helps families and doctors choose.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/ocrelizumab-shows-mri-benefits-fingolimod-phase-3-pediatric-onset-ms-study"
     }
   ]
 }

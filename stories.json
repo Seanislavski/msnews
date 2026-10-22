@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-21",
-  "lastChecked": "2026-10-21",
+  "lastUpdated": "2026-10-22",
+  "lastChecked": "2026-10-22",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -316,6 +316,41 @@
       "why": "Children with MS have had few treatment studies, so more data helps families and doctors choose.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/ocrelizumab-shows-mri-benefits-fingolimod-phase-3-pediatric-onset-ms-study"
+    },
+    {
+      "id": "2026-10-22-pain-perceived-cognition",
+      "added": "2026-10-22",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/21/2026",
+      "title": "Pain linked to feeling foggy, but not to test scores",
+      "summary": "In 396 adults at one Canadian MS clinic, more pain went with more self-reported thinking and memory trouble. Their actual test results did not match how they felt.",
+      "why": "It suggests pain, mood and fatigue may affect how thinking feels, and are worth mentioning to a care team.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/21/pain-linked-perceived-cognitive-difficulties-ms-study/"
+    },
+    {
+      "id": "2026-10-22-vitamin-d-receptor-genes",
+      "added": "2026-10-22",
+      "order": 2,
+      "tag": "Research",
+      "when": "10/21/2026",
+      "title": "Vitamin D receptor gene variants tied to MS symptoms in Greek study",
+      "summary": "In 200 people with MS and 265 without, no single gene variant differed by MS status. Some variants were linked to motor symptoms and neck spinal cord lesions, a link, not proof.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/21/vitamin-d-receptor-gene-variants-linked-ms-symptoms-study/"
+    },
+    {
+      "id": "2026-10-22-applegate-ms-misdiagnosis",
+      "added": "2026-10-22",
+      "order": 3,
+      "tag": "Living with MS",
+      "when": "10/20/2026",
+      "title": "Christina Applegate says doctors now doubt her MS diagnosis",
+      "summary": "The actor said on her podcast that a doctor told her she does not have MS and that the cause of her symptoms is unknown. Neurologists say MS can be misdiagnosed because no single test confirms it.",
+      "why": "It is a reminder that MS diagnosis relies on criteria, and a specialist can review a diagnosis that does not fit.",
+      "source": "TODAY",
+      "url": "https://www.today.com/health/celebrity-health/christina-applegate-reveals-misdiagnosis-ms-podcast-rcna604549"
     }
   ]
 }

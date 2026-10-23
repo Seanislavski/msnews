@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22",
-  "lastChecked": "2026-10-22",
+  "lastUpdated": "2026-10-23",
+  "lastChecked": "2026-10-23",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -351,6 +351,29 @@
       "why": "It is a reminder that MS diagnosis relies on criteria, and a specialist can review a diagnosis that does not fit.",
       "source": "TODAY",
       "url": "https://www.today.com/health/celebrity-health/christina-applegate-reveals-misdiagnosis-ms-podcast-rcna604549"
+    },
+    {
+      "id": "2026-10-23-cta313-car-t",
+      "added": "2026-10-23",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "10/21/2026",
+      "title": "Early CAR-T results in 3 people with progressive MS",
+      "summary": "At a major MS meeting, researchers reported a donor-cell CAR-T therapy called CTA313 in just three people with progressive MS. After 3 months, two improved slightly and one stayed stable; side effects were mild.",
+      "why": "Very small and early, so it shows only that this idea is being tested safely.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/early-data-show-dual-targeting-car-t-agent-cta313-stabilizes-progressive-multiple-sclerosis"
+    },
+    {
+      "id": "2026-10-23-ms-trust-dizziness",
+      "added": "2026-10-23",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "10/22/2026",
+      "title": "Podcast: why dizziness and vertigo happen in MS",
+      "summary": "A physiotherapist explains how the body's balance system works, why MS can cause dizziness, vertigo and balance trouble, and what treatment and support exist.",
+      "source": "MS Trust",
+      "url": "https://mstrust.org.uk/information-support/podcasts/why-am-i-dizzy-understanding-dizziness-and-vertigo-ms"
     }
   ]
 }

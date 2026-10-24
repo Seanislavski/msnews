@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23",
-  "lastChecked": "2026-10-23",
+  "lastUpdated": "2026-10-24",
+  "lastChecked": "2026-10-24",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -374,6 +374,41 @@
       "summary": "A physiotherapist explains how the body's balance system works, why MS can cause dizziness, vertigo and balance trouble, and what treatment and support exist.",
       "source": "MS Trust",
       "url": "https://mstrust.org.uk/information-support/podcasts/why-am-i-dizzy-understanding-dizziness-and-vertigo-ms"
+    },
+    {
+      "id": "2026-10-24-fenebrutinib-lesions",
+      "added": "2026-10-24",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "10/23/2026",
+      "title": "Experimental pill fenebrutinib lowered markers of chronic brain inflammation",
+      "summary": "Company-reported trial data say fenebrutinib cut slowly expanding lesions by up to 30% and relapses by 55% versus Aubagio in relapsing MS. The trials are still ongoing and the drug is not yet approved.",
+      "why": "If approved, it could add a new oral option; the FDA decision is expected in early 2027.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/"
+    },
+    {
+      "id": "2026-10-24-zola-cel-car-t-death",
+      "added": "2026-10-24",
+      "order": 2,
+      "tag": "Research",
+      "when": "10/23/2026",
+      "title": "One death reported in CAR-T trial for MS as early results look promising",
+      "summary": "Bristol Myers Squibb reported one patient died of septic pneumonia 44 days after a CAR-T infusion. Early data in 66 people (safety was the main goal) also showed promising signs in some with progressive MS.",
+      "why": "CAR-T for MS is still experimental and carries real risks, such as serious immune reactions.",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/drug-development/bms-reveals-death-from-septic-pneumonia-of-multiple-sclerosis-patient-in-car-t-trial"
+    },
+    {
+      "id": "2026-10-24-vidofludimus-extension",
+      "added": "2026-10-24",
+      "order": 3,
+      "tag": "Treatment",
+      "when": "10/21/2026",
+      "title": "Progressive MS pill vidofludimus: disability trends held in open-label extension",
+      "summary": "In an extension of a phase 2 trial, disability trends from the main trial were kept up by people who stayed on the drug, with no new safety concerns. There was no placebo group, and the main trial missed its brain-volume goal.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/calliper-extension-data-show-sustained-disability-outcomes-vidofludimus-calcium-progressive-ms"
     }
   ]
 }

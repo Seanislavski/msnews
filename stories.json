@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24",
-  "lastChecked": "2026-10-24",
+  "lastUpdated": "2026-10-25",
+  "lastChecked": "2026-10-25",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -409,6 +409,41 @@
       "summary": "In an extension of a phase 2 trial, disability trends from the main trial were kept up by people who stayed on the drug, with no new safety concerns. There was no placebo group, and the main trial missed its brain-volume goal.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/calliper-extension-data-show-sustained-disability-outcomes-vidofludimus-calcium-progressive-ms"
+    },
+    {
+      "id": "2026-10-25-thai-malnutrition-risk",
+      "added": "2026-10-25",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "10/22/2026",
+      "title": "About 4 in 10 adults with MS in a Thai study were at risk of poor nutrition",
+      "summary": "A small single-center study in Thailand found about 42% of 100 adults with MS were malnourished or at risk. Poorer nutrition went with lower body weight and more disability, but this design cannot show cause.",
+      "why": "Eating well is part of care, and it is fine to ask your care team about it.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/22/small-thai-study-finds-high-malnutrition-risk-rate-ms-patients/"
+    },
+    {
+      "id": "2026-10-25-azer-cel-progressive-ms",
+      "added": "2026-10-25",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "10/23/2026",
+      "title": "Early CAR-T results in 26 people with progressive MS",
+      "summary": "Company news: in a small early-stage study, most people tracked kept stable or better disability scores, and no new MRI lesions were seen. Follow-up was short and there was no comparison group.",
+      "source": "Business Wire (TG Therapeutics)",
+      "url": "https://baytobaynews.com/daily-state-news/stories/tg-therapeutics-announces-phase-1-data-evaluating-azer-cel-in-progressive-multiple-sclerosis-in-a,356961"
+    },
+    {
+      "id": "2026-10-25-ocrevus-older-adults",
+      "added": "2026-10-25",
+      "order": 3,
+      "tag": "Treatment",
+      "when": "10/21/2026",
+      "title": "Ocrevus worked similarly in people over 55, company reports",
+      "summary": "Company news: in a trial, 53% of people over 55 had no disability progression after two years, close to 55% in younger people. Results come from a conference presentation.",
+      "why": "Older adults are often left out of MS trials, so this is useful to see.",
+      "source": "Roche",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-10-21"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-26",
-  "lastChecked": "2026-10-26",
+  "lastUpdated": "2026-10-27",
+  "lastChecked": "2026-10-27",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -490,6 +490,30 @@
       "summary": "At a major eye meeting, doctors discussed a records study finding that people with MS-type disease and past optic neuritis had about twice the 5-year risk of uveitis (eye inflammation), though the absolute risk was low at 1.1% versus 0.6%.",
       "source": "Ophthalmology Times",
       "url": "https://www.ophthalmologytimes.com/view/neuroop-guru-at-aao-2026-blurry-vision-in-ms-isn-t-always-a-relapse"
+    },
+    {
+      "id": "2026-10-27-fenebrutinib-phase3-relapses",
+      "added": "2026-10-27",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "10/21/2026",
+      "title": "Fenebrutinib pill cut relapses 55% versus teriflunomide in relapsing MS",
+      "summary": "Company news: Roche says two combined phase 3 trials found the experimental pill cut yearly relapses by 55% over 96 weeks compared with teriflunomide, and slowed brain shrinkage. Disability worsening was 16% lower.",
+      "why": "It shows how far this pill has come, but it is not yet approved.",
+      "source": "Roche (company press release)",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-10-21"
+    },
+    {
+      "id": "2026-10-27-ebv-genes-ms-risk",
+      "added": "2026-10-27",
+      "order": 2,
+      "tag": "Research",
+      "when": "10/26/2026",
+      "title": "Yale team links Epstein-Barr virus activity genes to MS risk",
+      "summary": "In a conference presentation of work not yet peer reviewed, researchers studied over 600,000 people and found gene regions tied to Epstein-Barr virus activity that overlap with MS risk genes. A small look at 38 people found infected immune cells carrying MS-risk activity.",
+      "why": "It adds to the evidence on how the common virus may contribute to MS.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/investigatin-genetic-link-between-ebv-ms-risk-david-hafler-yoshiaki-yasumizu"
     }
   ]
 }

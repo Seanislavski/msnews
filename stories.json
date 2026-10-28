@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27",
-  "lastChecked": "2026-10-27",
+  "lastUpdated": "2026-10-28",
+  "lastChecked": "2026-10-28",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -514,6 +514,18 @@
       "why": "It adds to the evidence on how the common virus may contribute to MS.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/investigatin-genetic-link-between-ebv-ms-risk-david-hafler-yoshiaki-yasumizu"
+    },
+    {
+      "id": "2026-10-28-zola-cel-car-t-66-people",
+      "added": "2026-10-28",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/25/2026",
+      "title": "CAR-T therapy zola-cel: early results in 66 people with relapsing or progressive MS",
+      "summary": "Company news: in a small early-stage trial with no comparison group, most people checked after 6 months had stable or improved disability. Serious side effects occurred, and one person died of pneumonia after treatment.",
+      "why": "It is early safety data, not proof the treatment works or is ready for patients.",
+      "source": "Bristol Myers Squibb (via BioSpace)",
+      "url": "https://www.biospace.com/press-releases/bristol-myers-squibb-presents-results-from-phase-1-breakfree-2-study-of-zolacabtagene-autoleucel-bms-986353-in-patients-with-highly-active-relapsing-and-progressive-forms-of-multiple-sclerosis-at-mstoronto-2026"
     }
   ]
 }

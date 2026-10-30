@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29",
-  "lastChecked": "2026-10-29",
+  "lastUpdated": "2026-10-30",
+  "lastChecked": "2026-10-30",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -561,6 +561,41 @@
       "why": "It covers staying active at different ability levels.",
       "source": "European MS Platform (EMSP)",
       "url": "https://emsp.org/events/webinar-movement-for-brain-health/"
+    },
+    {
+      "id": "2026-10-30-long-term-forgetting",
+      "added": "2026-10-30",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/26/2026",
+      "title": "People with MS forgot more after one week in a small German study",
+      "summary": "In a study of 62 people with MS and 65 without, both groups remembered similarly at 30 minutes. A week later, the MS group remembered less.",
+      "why": "Memory tests that wait a week may catch problems that quick tests miss.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/26/study-links-ms-greater-long-term-memory-loss-time/"
+    },
+    {
+      "id": "2026-10-30-vaccine-willingness",
+      "added": "2026-10-30",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "10/27/2026",
+      "title": "Willingness to get vaccines fell among German adults with MS",
+      "summary": "In 175 adults followed for five years, willingness to get all recommended vaccines fell from 81% to 66%. Doctors discussing vaccines rose from 34% to 71%.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/27/vaccine-fatigue-rises-ms-covid-19-pandemic-new-study/"
+    },
+    {
+      "id": "2026-10-30-mcdonald-2024-diagnosis",
+      "added": "2026-10-30",
+      "order": 3,
+      "tag": "Research",
+      "when": "10/28/2026",
+      "title": "Updated MS diagnosis rules found MS earlier in a six-center European study",
+      "summary": "The 2024 criteria led to diagnosis in about 4 months on average, versus about 16 with the 2017 rules, and caught more people (82% vs 63%). The study had no control group and short follow-up.",
+      "why": "Earlier diagnosis can mean earlier treatment.",
+      "source": "MS Australia",
+      "url": "https://www.msaustralia.org.au/news/unifying-ms-research-updates-from-mstoronto2026/"
     }
   ]
 }

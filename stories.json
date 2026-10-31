@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-30",
-  "lastChecked": "2026-10-30",
+  "lastUpdated": "2026-10-31",
+  "lastChecked": "2026-10-31",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -596,6 +596,41 @@
       "why": "Earlier diagnosis can mean earlier treatment.",
       "source": "MS Australia",
       "url": "https://www.msaustralia.org.au/news/unifying-ms-research-updates-from-mstoronto2026/"
+    },
+    {
+      "id": "2026-10-31-early-ms-treatments-relapses",
+      "added": "2026-10-31",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "10/29/2026",
+      "title": "Early MS drugs differed on relapses but not disability over 2 years",
+      "summary": "In 509 newly diagnosed adults in Europe, B-cell-depleting drugs were tied to fewer relapses and slightly smaller lesion growth than pills. Disability did not differ between treatments.",
+      "why": "This was an observational study, so it shows a link, not proof, and only two years were tracked.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/29/early-ms-therapies-differ-relapses-not-disability-study-finds/"
+    },
+    {
+      "id": "2026-10-31-exercise-programs-review",
+      "added": "2026-10-31",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "10/29/2026",
+      "title": "Health-professional-led exercise programs for MS look workable, review finds",
+      "summary": "A review of 25 studies covering 28 programs found they seemed acceptable and doable for adults with MS. None had been tested in routine clinical care yet.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/29/physical-activity-programs-people-ms-show-early-promise/"
+    },
+    {
+      "id": "2026-10-31-disability-and-thinking-review",
+      "added": "2026-10-31",
+      "order": 3,
+      "tag": "Research",
+      "when": "10/30/2026",
+      "title": "More physical disability went with poorer thinking skills in MS",
+      "summary": "A review of 223 studies found greater physical disability was linked to lower scores on thinking tests, mostly in advanced disease. Thinking problems also showed up with mild physical disability.",
+      "why": "Thinking changes can be missed by standard disability checks.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/30/review-study-links-physical-disability-cognitive-problems-ms/"
     }
   ]
 }

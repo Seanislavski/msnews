@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31",
-  "lastChecked": "2026-10-31",
+  "lastUpdated": "2026-11-01",
+  "lastChecked": "2026-11-01",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -631,6 +631,40 @@
       "why": "Thinking changes can be missed by standard disability checks.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/30/review-study-links-physical-disability-cognitive-problems-ms/"
+    },
+    {
+      "id": "2026-11-01-rituximab-ibd",
+      "added": "2026-11-01",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "10/22/2026",
+      "title": "Rituximab tied to a higher chance of bowel disease in a large Swedish study",
+      "summary": "In nearly 14,000 treatment episodes, bowel disease (mostly Crohn's) was more common with rituximab than with three other MS drugs. It was still rare: under 2% of people in any group within 10 years. This is a link, not proof.",
+      "why": "If you take rituximab, this is something to ask your neurologist about; the study says the risk should be weighed against its benefits.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-10-common-multiple-sclerosis-treatment-linked.html"
+    },
+    {
+      "id": "2026-11-01-ms-three-parts",
+      "added": "2026-11-01",
+      "order": 2,
+      "tag": "Research",
+      "when": "10/30/2026",
+      "title": "Experts: MS activity, day-to-day impact and progression are separate things",
+      "summary": "In a panel discussion, MS specialists said inflammation, everyday symptoms and slow worsening of disability can each happen without the others. They say treatments now control relapses well, so future work should focus on progression. This is expert opinion, not a new study.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/how-ms-understanding-has-evolved-activity-impact-and-progression"
+    },
+    {
+      "id": "2026-11-01-blood-tests-interview",
+      "added": "2026-11-01",
+      "order": 3,
+      "tag": "Research",
+      "when": "10/26/2026",
+      "title": "Blood tests for MS activity are moving toward routine use, company expert says",
+      "summary": "In an interview, a maker of an MS blood test said such tests may catch silent disease activity and help with treatment choices. Insurance coverage and access to blood draws remain hurdles. This is company news, and its ability to predict future disease is not yet shown.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/expanding-role-blood-based-biomarkers-ms-care"
     }
   ]
 }

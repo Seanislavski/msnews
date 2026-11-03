@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01",
-  "lastChecked": "2026-11-02",
+  "lastUpdated": "2026-11-03",
+  "lastChecked": "2026-11-03",
   "stories": [
     {
       "id": "2026-10-15-holism-lifestyle",
@@ -665,6 +665,18 @@
       "summary": "In an interview, a maker of an MS blood test said such tests may catch silent disease activity and help with treatment choices. Insurance coverage and access to blood draws remain hurdles. This is company news, and its ability to predict future disease is not yet shown.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/expanding-role-blood-based-biomarkers-ms-care"
+    },
+    {
+      "id": "2026-11-03-foralumab-nasal-spray-sp-ms",
+      "added": "2026-11-03",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "11/02/2026",
+      "title": "Nasal spray foralumab: mixed results in a small progressive MS trial",
+      "summary": "Company news: a small phase 2 trial in non-active secondary progressive MS found the lower dose reduced a brain-inflammation marker on PET scans versus placebo, but the higher dose did not. The company has not released the full data.",
+      "why": "It is early and small, and no change in disability was seen, so it is not yet a proven treatment.",
+      "source": "BioSpace",
+      "url": "https://biospace.com/drug-development/tiziana-touts-multiple-sclerosis-win-at-lower-dose-as-high-dose-misses-mark"
     }
   ]
 }

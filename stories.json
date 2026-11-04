@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-11-03",
-  "lastChecked": "2026-11-03",
+  "lastUpdated": "2026-11-04",
+  "lastChecked": "2026-11-04",
   "stories": [
-    {
-      "id": "2026-10-15-holism-lifestyle",
-      "added": "2026-10-15",
-      "order": 1,
-      "tag": "Living with MS",
-      "when": "January 2026",
-      "title": "A healthier lifestyle went with less fatigue over 5 years",
-      "summary": "A study followed 839 people with MS for five years. Those who scored higher on activity, diet quality, meditation, not smoking and vitamin D had less fatigue, depression and disability.",
-      "why": "It shows a link, not proof that one causes the other. But it's a good reason to track your own habits.",
-      "source": "PubMed",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41275836/"
-    },
     {
       "id": "2026-10-15-light-activity",
       "added": "2026-10-15",
@@ -677,6 +665,40 @@
       "why": "It is early and small, and no change in disability was seen, so it is not yet a proven treatment.",
       "source": "BioSpace",
       "url": "https://biospace.com/drug-development/tiziana-touts-multiple-sclerosis-win-at-lower-dose-as-high-dose-misses-mark"
+    },
+    {
+      "id": "2026-11-04-osbourne-fraud",
+      "added": "2026-11-04",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "11/03/2026",
+      "title": "Jack Osbourne says he sometimes feels like a \"fraud\" at MS events",
+      "summary": "On a podcast, he said he has met newer patients facing harder struggles than his. He added that MS has slowed him down at times but has not stopped him.",
+      "why": "Many people with MS feel they do not belong, or are not \"sick enough\", and he says so openly.",
+      "source": "The National Desk",
+      "url": "https://thenationaldesk.com/news/entertainment/why-jack-osbourne-says-he-feels-like-a-fraud-at-ms-events"
+    },
+    {
+      "id": "2026-11-04-ohio-webinar",
+      "added": "2026-11-04",
+      "order": 2,
+      "tag": "Events",
+      "when": "11/05/2026",
+      "title": "Free online MS Q&A with experts, Thursday evening",
+      "summary": "Ohio State Wexner Medical Center is holding a free virtual question-and-answer session on Thursday, November 5, from 6:00 to 7:30 p.m. Topics include aging with MS, symptoms, diet, exercise, medicines and research.",
+      "source": "Ohio State Wexner Medical Center",
+      "url": "https://wexnermedical.osu.edu/neurological-institute/clinical-centers/ms-and-neuroimmunology/mscommunity"
+    },
+    {
+      "id": "2026-11-04-nmss-screening-rfa",
+      "added": "2026-11-04",
+      "order": 3,
+      "tag": "Research",
+      "when": "11/02/2026",
+      "title": "National MS Society opens funding for early-detection screening tools",
+      "summary": "The Society is asking researchers to apply for money to build and test MS screening tools that are practical to use. This is a funding call, company-style announcement, not a study result.",
+      "source": "Targeted News Service (National MS Society release)",
+      "url": "https://targetednews.com/pr_disp.php?pr_id=9817883"
     }
   ]
 }

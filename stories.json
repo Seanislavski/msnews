@@ -1,43 +1,7 @@
 {
-  "lastUpdated": "2026-11-04",
-  "lastChecked": "2026-11-04",
+  "lastUpdated": "2026-11-05",
+  "lastChecked": "2026-11-05",
   "stories": [
-    {
-      "id": "2026-10-15-light-activity",
-      "added": "2026-10-15",
-      "order": 2,
-      "tag": "Living with MS",
-      "when": "2025",
-      "title": "Light activity was tied to lower fatigue",
-      "summary": "In people newly diagnosed with MS, light physical activity (like easy walking) was the measure most strongly linked to lower fatigue, even after accounting for disability.",
-      "why": "You don't have to start with hard exercise. Gentle movement may help with fatigue.",
-      "source": "PubMed Central",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13528108/"
-    },
-    {
-      "id": "2026-10-15-mediterranean-diet",
-      "added": "2026-10-15",
-      "order": 3,
-      "tag": "Living with MS",
-      "when": "2025",
-      "title": "A Mediterranean-style diet eased fatigue in a small trial",
-      "summary": "A two-month trial with 90 people with MS compared diets. A modified Mediterranean diet (vegetables, whole grains, fish, olive oil) went with less fatigue.",
-      "why": "Small and early, but it points the same way as general healthy eating.",
-      "source": "PubMed Central",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11992347/"
-    },
-    {
-      "id": "2026-10-15-remibrutinib",
-      "added": "2026-10-15",
-      "order": 4,
-      "tag": "Treatment",
-      "when": "10/07/2026",
-      "title": "A new MS pill cut relapses in two large trials",
-      "summary": "Novartis says its pill remibrutinib (a BTK inhibitor) reduced relapses more than teriflunomide in two Phase III trials of relapsing MS. Full results come at a conference this month.",
-      "why": "This is company news, and the full data isn't out yet. Something to ask your neurologist about later.",
-      "source": "Novartis via GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/10/07/3376328/0/en/novartis-advances-multiple-sclerosis-innovation-with-late-breaking-remibrutinib-and-broad-portfolio-data-at-mstoronto2026.html"
-    },
     {
       "id": "2026-10-15-btk-review",
       "added": "2026-10-15",
@@ -699,6 +663,40 @@
       "summary": "The Society is asking researchers to apply for money to build and test MS screening tools that are practical to use. This is a funding call from the Society, not a study result.",
       "source": "Targeted News Service (National MS Society release)",
       "url": "https://targetednews.com/pr_disp.php?pr_id=9817883"
+    },
+    {
+      "id": "2026-11-05-gluten-free-diet-review",
+      "added": "2026-11-05",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/04/2026",
+      "title": "Review finds little proof that a gluten-free diet helps MS",
+      "summary": "A review of six small studies found possible gains in fatigue and quality of life, but no convincing effect on MS activity or disability. The evidence was rated very low certainty, and many studies were not randomized.",
+      "why": "It is unclear whether any benefit came from avoiding gluten or from other diet changes made at the same time.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/04/review-casts-doubt-clinical-benefits-gluten-free-diet-ms/"
+    },
+    {
+      "id": "2026-11-05-canada-ocrevus-children",
+      "added": "2026-11-05",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "11/04/2026",
+      "title": "Canada approves Ocrevus for children with relapsing MS",
+      "summary": "Health Canada approved Ocrevus, an infusion given twice a year, for relapsing-remitting MS in patients 10 and older. In a trial of 187 children and teens, it controlled relapses at least as well as fingolimod, with fewer new lesions.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/04/canada-expands-ocrevus-approval-children-relapsing-ms/"
+    },
+    {
+      "id": "2026-11-05-rmmsc-education-summit",
+      "added": "2026-11-05",
+      "order": 3,
+      "tag": "Events",
+      "when": "11/07/2026",
+      "title": "MS Education Summit in Aurora, Colorado, Saturday",
+      "summary": "The Rocky Mountain MS Center is hosting a morning of talks on MS care and treatment, from 9 AM to 12:15 PM. The listing says in person; the title mentions an online option, but no access details are given.",
+      "source": "Eventbrite (Rocky Mountain MS Center)",
+      "url": "https://www.eventbrite.com/e/ms-education-summit-fall-2026-in-person-or-online-registration-1998916231257"
     }
   ]
 }

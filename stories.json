@@ -1,52 +1,7 @@
 {
-  "lastUpdated": "2026-11-05",
-  "lastChecked": "2026-11-05",
+  "lastUpdated": "2026-11-06",
+  "lastChecked": "2026-11-06",
   "stories": [
-    {
-      "id": "2026-10-15-btk-review",
-      "added": "2026-10-15",
-      "order": 5,
-      "tag": "Research",
-      "when": "June 2026",
-      "title": "BTK drugs: fewer relapses, but repair isn't proven yet",
-      "summary": "A review pooling trials found BTK inhibitors cut relapses and new MRI lesions. Disability didn't change in the short trials, and the hope that they help repair myelin comes only from lab and animal work so far.",
-      "source": "PubMed Central",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13297389/"
-    },
-    {
-      "id": "2026-10-15-ebv-anti-cd20",
-      "added": "2026-10-15",
-      "order": 6,
-      "tag": "Research",
-      "when": "10/13/2026",
-      "title": "Some MS drugs may work partly by calming the immune response to a common virus",
-      "summary": "Epstein-Barr virus (EBV) is strongly linked to MS. A new study suggests anti-CD20 treatments may work partly by lowering the immune system's reaction to EBV.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/13/ms-therapy-work-part-lowering-ebv-immune-response"
-    },
-    {
-      "id": "2026-10-15-mstoronto2026",
-      "added": "2026-10-15",
-      "order": 7,
-      "tag": "Events",
-      "when": "10/21-10/23/2026",
-      "title": "The year's biggest MS conference is next week",
-      "summary": "MSToronto2026, the joint meeting of the American and European MS research groups, runs October 21 to 23. Expect a wave of new results, including the full remibrutinib data.",
-      "source": "Neurology Advisor",
-      "url": "https://neurologyadvisor.com/features/mstoronto2026-ectrims-actrims-2026"
-    },
-    {
-      "id": "2026-10-15-oral-microbiome",
-      "added": "2026-10-15",
-      "order": 8,
-      "tag": "Research",
-      "when": "2026",
-      "title": "Could mouth bacteria explain why diet helps some people more?",
-      "summary": "A new Australian study will look at whether bacteria in the mouth explain why people with MS respond differently to healthy eating and exercise. It is just starting, so there are no results yet.",
-      "why": "What works for one person may not match the average, which is a reason to track your own results.",
-      "source": "University of Wollongong",
-      "url": "https://www.uow.edu.au/media/2026/study-explores-role-of-diet-exercise-and-oral-microbiome-in-multiple-sclerosis-.php"
-    },
     {
       "id": "2026-10-15-fenebrutinib-priority-review",
       "added": "2026-10-15",
@@ -697,6 +652,52 @@
       "summary": "The Rocky Mountain MS Center is hosting a morning of talks on MS care and treatment, from 9 AM to 12:15 PM. The listing says in person; the title mentions an online option, but no access details are given.",
       "source": "Eventbrite (Rocky Mountain MS Center)",
       "url": "https://www.eventbrite.com/e/ms-education-summit-fall-2026-in-person-or-online-registration-1998916231257"
+    },
+    {
+      "id": "2026-11-06-remibrutinib-vs-teriflunomide",
+      "added": "2026-11-06",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "11/03/2026",
+      "title": "Remibrutinib pill cut relapses versus Aubagio in two large trials",
+      "summary": "Company news: Novartis reports two Phase 3 trials in about 2,000 people with relapsing MS. The pill remibrutinib cut yearly relapses by 31% to 35% compared with Aubagio. Its effect on disability was not firmly proven.",
+      "why": "It is not approved yet; the company plans to seek approval.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/experimental-ms-therapy-outperforms-approved-treatment-trials/"
+    },
+    {
+      "id": "2026-11-06-exercise-quality-of-life",
+      "added": "2026-11-06",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "11/05/2026",
+      "title": "Active people with MS reported better quality of life",
+      "summary": "In a survey of 1,083 adults with MS, high physical activity went with better mobility, less fatigue and less walking disability. It is a link, not proof, and the data were self-reported.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/study-links-exercise-better-quality-life-multiple-sclerosis/"
+    },
+    {
+      "id": "2026-11-06-pro-1562-myelin-trial",
+      "added": "2026-11-06",
+      "order": 3,
+      "tag": "Research",
+      "when": "11/05/2026",
+      "title": "First dose given in trial of myelin-repair pill PRO-1562",
+      "summary": "Company news: Progentos has started an early safety trial in healthy adults in Australia. Benefits so far come only from animal studies. A later phase will test people with relapsing MS.",
+      "why": "No approved drug can rebuild lost myelin yet, so early trials like this are watched closely.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/"
+    },
+    {
+      "id": "2026-11-06-word-finding-lexical",
+      "added": "2026-11-06",
+      "order": 4,
+      "tag": "Research",
+      "when": "11/04/2026",
+      "title": "Word-finding trouble in MS may be more than slow thinking",
+      "summary": "In a small study of 38 people with relapsing MS and 23 without, people with MS were slower and made slightly more errors on naming tasks. The errors were not fully explained by slower thinking speed.",
+      "source": "Frontiers in Behavioral Neuroscience",
+      "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1991139/full"
     }
   ]
 }

@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-11-06",
-  "lastChecked": "2026-11-06",
+  "lastUpdated": "2026-11-07",
+  "lastChecked": "2026-11-07",
   "stories": [
-    {
-      "id": "2026-10-15-fenebrutinib-priority-review",
-      "added": "2026-10-15",
-      "order": 9,
-      "tag": "Treatment",
-      "when": "10/01/2026",
-      "title": "FDA gives priority review to fenebrutinib pill for two MS types",
-      "summary": "The FDA will review Roche's oral drug fenebrutinib for relapsing MS and primary progressive MS, with a decision expected around spring 2027. It is not approved yet.",
-      "why": "It shows a possible new pill option for primary progressive MS is under review.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/"
-    },
     {
       "id": "2026-10-15-ms-society-end-ms-campaign",
       "added": "2026-10-15",
@@ -698,6 +686,18 @@
       "summary": "In a small study of 38 people with relapsing MS and 23 without, people with MS were slower and made slightly more errors on naming tasks. The errors were not fully explained by slower thinking speed.",
       "source": "Frontiers in Behavioral Neuroscience",
       "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1991139/full"
+    },
+    {
+      "id": "2026-11-07-ocean-sailing-ms",
+      "added": "2026-11-07",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "11/06/2026",
+      "title": "A 10-day ocean sailing trip looked safe in a small MS study",
+      "summary": "In a small study of 15 adults with mild to moderate MS and no comparison group, strength, walking, balance and thinking did not change after a 10-day sailing expedition. Most had mild or moderate seasickness, and there were no serious problems.",
+      "why": "It suggests sailing may be a workable way to stay active, but larger studies are needed.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/06/study-shows-ocean-sailing-safe-feasible-adults-ms/"
     }
   ]
 }

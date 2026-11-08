@@ -1,30 +1,7 @@
 {
-  "lastUpdated": "2026-11-07",
-  "lastChecked": "2026-11-07",
+  "lastUpdated": "2026-11-08",
+  "lastChecked": "2026-11-08",
   "stories": [
-    {
-      "id": "2026-10-15-ms-society-end-ms-campaign",
-      "added": "2026-10-15",
-      "order": 10,
-      "tag": "Research",
-      "when": "10/01/2026",
-      "title": "National MS Society launches $1 billion Campaign to End MS",
-      "summary": "The Society says it is starting a five-year, $1 billion fundraising campaign for MS research, care and support. This is company-style news from the Society's own press release.",
-      "source": "BioSpace (press release)",
-      "url": "https://www.biospace.com/press-releases/national-ms-society-launches-campaign-to-end-ms-declaring-for-the-first-time-ending-ms-is-within-reach"
-    },
-    {
-      "id": "2026-10-16-atlas-3-million",
-      "added": "2026-10-16",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/01/2026",
-      "title": "About 3.1 million people worldwide now live with MS",
-      "summary": "The MS International Federation updated its Atlas of MS. It estimates 3.1 million people have MS, up from about 2.8 million in 2020. The authors say better diagnosis may explain much of the rise.",
-      "why": "It shows how many people share this condition, and that more are being counted.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/3-million-people-living-ms-globally-report-shows/"
-    },
     {
       "id": "2026-10-16-neuroms-rehab",
       "added": "2026-10-16",
@@ -698,6 +675,29 @@
       "why": "It suggests sailing may be a workable way to stay active, but larger studies are needed.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/06/study-shows-ocean-sailing-safe-feasible-adults-ms/"
+    },
+    {
+      "id": "2026-11-08-uk-ms-healthcare-costs",
+      "added": "2026-11-08",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/06/2026",
+      "title": "UK study puts a number on the healthcare cost of MS",
+      "summary": "Researchers at Bangor University looked at nearly 6,000 people with MS. Average healthcare costs were about £2,800 over three months, and almost £9,400 for people with significant disability and fast-changing disease.",
+      "why": "The study also found MS ranked in the lowest 10% of quality-of-life scores among common long-term conditions.",
+      "source": "Nation.Cymru",
+      "url": "https://nation.cymru/news/welsh-university-study-reveals-financial-impact-of-multiple-sclerosis/"
+    },
+    {
+      "id": "2026-11-08-nac-add-on-pet",
+      "added": "2026-11-08",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/02/2026",
+      "title": "Antioxidant add-on NAC linked to better outcomes in an early MS study",
+      "summary": "Jefferson University researchers added N-acetylcysteine (NAC), an antioxidant supplement, to people's usual MS treatment and report better outcomes in most. Brain scans also showed better connection between brain regions. The team says larger studies are needed.",
+      "source": "EurekAlert (Thomas Jefferson University)",
+      "url": "https://www.eurekalert.org/news-releases/1150185"
     }
   ]
 }

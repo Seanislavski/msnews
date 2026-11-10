@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-11-08",
-  "lastChecked": "2026-11-09",
+  "lastUpdated": "2026-11-10",
+  "lastChecked": "2026-11-10",
   "stories": [
-    {
-      "id": "2026-10-16-neuroms-rehab",
-      "added": "2026-10-16",
-      "order": 2,
-      "tag": "Living with MS",
-      "when": "10/07/2026",
-      "title": "A short thinking-skills program showed early promise",
-      "summary": "In a small feasibility trial of 79 people, up to six sessions of personalized rehab helped people feel better about planning and managing fatigue. Results were self-reported, so this is an early signal, not proof.",
-      "why": "A larger trial is now under way.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/07/rehab-program-help-ms-patients-manage-cognitive-issues/"
-    },
     {
       "id": "2026-10-16-retina-thinking-speed",
       "added": "2026-10-16",
@@ -698,6 +686,18 @@
       "summary": "Jefferson University researchers added N-acetylcysteine (NAC), an antioxidant supplement, to people's usual MS treatment and report better outcomes in most. Brain scans also showed better connection between brain regions. The team says larger studies are needed.",
       "source": "EurekAlert (Thomas Jefferson University)",
       "url": "https://www.eurekalert.org/news-releases/1150185"
+    },
+    {
+      "id": "2026-11-10-lubricant-exposure-ms-odds",
+      "added": "2026-11-10",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/04/2026",
+      "title": "Workplace exposure to petroleum-based lubricants linked to higher MS odds",
+      "summary": "A Swedish study of about 2,900 people with MS and 6,100 without found those who reported job exposure to oils and lubricants had 38% higher odds of MS. It is a link, not proof, and exposure was self-reported.",
+      "why": "It adds to research on workplace and environmental factors, but it does not show that lubricants cause MS.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/09/petroleum-based-lubricant-exposure-linked-higher-ms-odds/"
     }
   ]
 }

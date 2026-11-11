@@ -1,42 +1,7 @@
 {
-  "lastUpdated": "2026-11-10",
-  "lastChecked": "2026-11-10",
+  "lastUpdated": "2026-11-11",
+  "lastChecked": "2026-11-11",
   "stories": [
-    {
-      "id": "2026-10-16-retina-thinking-speed",
-      "added": "2026-10-16",
-      "order": 3,
-      "tag": "Research",
-      "when": "10/15/2026",
-      "title": "Thinner retinas were linked to slower thinking speed in MS",
-      "summary": "In a small study of 70 adults, thinning of the eye's nerve cell layer went with slower information processing, apart from physical disability. The authors say larger studies are needed.",
-      "why": "Simple eye scans may one day help track brain changes.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/15/eye-scans-link-retinal-thinning-slower-cognitive-processing-ms/"
-    },
-    {
-      "id": "2026-10-16-ocb-lesions-memory",
-      "added": "2026-10-16",
-      "order": 4,
-      "tag": "Research",
-      "when": "10/15/2026",
-      "title": "More spinal fluid bands went with more brain lesions",
-      "summary": "In 62 people newly diagnosed with relapsing MS, higher oligoclonal band counts were linked to lesions in more brain areas and slightly poorer verbal memory. This is a link, not proof, and the authors say it is not a standalone test.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/15/ocb-counts-tied-broader-mri-lesions-newly-diagnosed-ms/"
-    },
-    {
-      "id": "2026-10-16-lucid-ms-phase2",
-      "added": "2026-10-16",
-      "order": 5,
-      "tag": "Treatment",
-      "when": "10/08/2026",
-      "title": "Myelin-protecting pill nears a progressive MS trial",
-      "summary": "Company news: Quantum Biopharma is preparing a Phase 2 trial of Lucid-MS, cleared by the FDA. So far it has helped mice with MS-like symptoms and passed safety checks in healthy volunteers.",
-      "why": "It has not yet been tested in people with MS.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/08/new-therapy-moves-closer-phase-2-testing-progressive-ms/"
-    },
     {
       "id": "2026-10-17-nfl-progression",
       "added": "2026-10-17",
@@ -698,6 +663,41 @@
       "why": "It adds to research on workplace and environmental factors, but it does not show that lubricants cause MS.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/09/petroleum-based-lubricant-exposure-linked-higher-ms-odds/"
+    },
+    {
+      "id": "2026-11-11-low-fat-diet-fatigue",
+      "added": "2026-11-11",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "11/10/2026",
+      "title": "Low-fat diet and fatigue in MS: small trial analysis",
+      "summary": "In a small four-month trial of 27 adults, fatigue scores improved in both the low-fat diet and usual-diet groups, and the difference between them could be chance. Changes in fat-related blood markers tracked with less fatigue.",
+      "why": "Diet is not a proven fatigue treatment yet; larger studies are needed.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/"
+    },
+    {
+      "id": "2026-11-11-decline-cognitive-testing",
+      "added": "2026-11-11",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/10/2026",
+      "title": "Why some people with MS turn down thinking tests",
+      "summary": "In one Canadian clinic, about 15% of 334 adults with MS declined free cognitive testing. Those with progressive MS or anxiety-related conditions were more likely to decline, as were those who did not report memory worries.",
+      "why": "Skipped testing can leave thinking changes unnoticed.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/people-ms-may-decline-cognitive-testing-study-finds/"
+    },
+    {
+      "id": "2026-11-11-dutch-biogen-tysabri-test",
+      "added": "2026-11-11",
+      "order": 3,
+      "tag": "Treatment",
+      "when": "11/10/2026",
+      "title": "Dutch regulator probes Biogen over Tysabri safety test access",
+      "summary": "The Netherlands' competition authority is examining whether Biogen unfairly kept a Tysabri safety-screening test from patients taking rival drugs, such as a biosimilar. This is an investigation, not a finding.",
+      "source": "STAT",
+      "url": "https://statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test"
     }
   ]
 }

@@ -1,30 +1,7 @@
 {
-  "lastUpdated": "2026-11-11",
-  "lastChecked": "2026-11-11",
+  "lastUpdated": "2026-11-12",
+  "lastChecked": "2026-11-12",
   "stories": [
-    {
-      "id": "2026-10-17-nfl-progression",
-      "added": "2026-10-17",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/16/2026",
-      "title": "Blood marker of nerve damage only partly predicted MS progression",
-      "summary": "In 262 people with early MS who started interferon beta-1a, blood levels of neurofilament light chain predicted progression only until MRI results were counted. Rising levels in year two went with faster brain shrinkage later.",
-      "why": "It shows a blood test may help track the disease, but it is not ready to guide care on its own.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/16/blood-levels-key-protein-help-predict-ms-progression/"
-    },
-    {
-      "id": "2026-10-17-pira-predictors",
-      "added": "2026-10-17",
-      "order": 2,
-      "tag": "Research",
-      "when": "10/13/2026",
-      "title": "Fatigue score and a spinal fluid protein tied to hidden MS progression",
-      "summary": "In a small study of 81 people with relapsing MS, a fatigue questionnaire score and a protein in spinal fluid were linked to worsening without relapses. The authors say the findings are exploratory and need to be confirmed in other groups.",
-      "source": "Frontiers in Neurology",
-      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1902455/full"
-    },
     {
       "id": "2026-10-17-briumvi-comparison",
       "added": "2026-10-17",
@@ -698,6 +675,29 @@
       "summary": "The Netherlands' competition authority is examining whether Biogen unfairly kept a Tysabri safety-screening test from patients taking rival drugs, such as a biosimilar. This is an investigation, not a finding.",
       "source": "STAT",
       "url": "https://statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test"
+    },
+    {
+      "id": "2026-11-12-telerehab-vs-home-exercise",
+      "added": "2026-11-12",
+      "order": 1,
+      "tag": "Research",
+      "when": "10/31/2026",
+      "title": "Remote rehab did not beat home exercise for MS in a review",
+      "summary": "A review pooled five trials and found video-guided remote rehabilitation did no better than home exercise for physical function, balance or quality of life. The authors say the evidence is thin and more good trials are needed.",
+      "why": "Home exercise may work about as well as remote rehab programs.",
+      "source": "EMJ",
+      "url": "https://www.emjreviews.com/?p=586815"
+    },
+    {
+      "id": "2026-11-12-column-ms-story-no-neat-ending",
+      "added": "2026-11-12",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "11/11/2026",
+      "title": "Column: an MS story doesn't need a neat ending",
+      "summary": "A columnist who lives with MS writes that hard experiences don't have to be turned into life lessons. This is a personal opinion piece, not research.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/columns/2026/11/11/giving-ourselves-permission-have-ms-story-without-neat-ending/"
     }
   ]
 }

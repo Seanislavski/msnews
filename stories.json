@@ -1,53 +1,7 @@
 {
-  "lastUpdated": "2026-11-12",
-  "lastChecked": "2026-11-12",
+  "lastUpdated": "2026-11-13",
+  "lastChecked": "2026-11-13",
   "stories": [
-    {
-      "id": "2026-10-17-briumvi-comparison",
-      "added": "2026-10-17",
-      "order": 3,
-      "tag": "Treatment",
-      "when": "10/14/2026",
-      "title": "Indirect comparison suggests Briumvi may slow disability more than two rivals",
-      "summary": "A statistical comparison of separate trials linked Briumvi to a lower risk of disability progression than Ocrevus or Kesimpta. It was funded by a company that sells the drug, and no head-to-head trial has tested it.",
-      "why": "Treat it as a hint, not proof, and talk with your neurologist before drawing conclusions.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/14/briumvi-outperform-ms-therapies-indirect-comparison/"
-    },
-    {
-      "id": "2026-10-18-ear-nerve-stimulation-hand",
-      "added": "2026-10-18",
-      "order": 1,
-      "tag": "Treatment",
-      "when": "10/09/2026",
-      "title": "Ear-based nerve stimulation is being tested for hand problems in MS",
-      "summary": "A University of Colorado trial of about 70 adults is testing mild stimulation through the ear during hand exercises. No results yet; the main goal is safety.",
-      "why": "Hopes come from animal and stroke research, so it is unproven in people with MS.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/09/noninvasive-nerve-stimulation-may-improve-hand-function-ms/"
-    },
-    {
-      "id": "2026-10-18-mini-brain-myelin",
-      "added": "2026-10-18",
-      "order": 2,
-      "tag": "Research",
-      "when": "10/08/2026",
-      "title": "Lab-grown 3D mini-brain may help test drugs that repair MS damage",
-      "summary": "Researchers built a rice-grain-sized model from human stem cells to study myelin damage and repair. This is lab work only, not tested in people.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/08/new-3d-mini-brain-offers-hope-drugs-repair-myelin-ms/"
-    },
-    {
-      "id": "2026-10-18-activity-sun-ms-risk",
-      "added": "2026-10-18",
-      "order": 3,
-      "tag": "Research",
-      "when": "10/07/2026",
-      "title": "Physical activity and MS risk: a possible link only with low sun exposure",
-      "summary": "In a Swedish study of about 3,000 people with MS and 5,800 without, activity alone was not clearly linked to MS risk. Among people with low sun exposure, the most active had 24% lower odds, a link, not proof.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/07/physical-activity-tied-lower-ms-risk-low-sun-exposure/"
-    },
     {
       "id": "2026-10-18-parental-stress-pediatric-ms",
       "added": "2026-10-18",
@@ -698,6 +652,52 @@
       "summary": "A columnist who lives with MS writes that hard experiences don't have to be turned into life lessons. This is a personal opinion piece, not research.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/columns/2026/11/11/giving-ourselves-permission-have-ms-story-without-neat-ending/"
+    },
+    {
+      "id": "2026-11-13-early-start-ocrevus-10-year",
+      "added": "2026-11-13",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "11/12/2026",
+      "title": "Starting Ocrevus early linked to less disability over 10 years",
+      "summary": "A company-funded 10-year follow-up of two large trials in relapsing MS found people who started Ocrevus right away had a 24% lower risk of confirmed disability progression than those who started two years later. No new safety concerns appeared.",
+      "why": "Suggests timing of treatment may matter, but this is a follow-up analysis, not a new trial.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/12/early-start-approved-ms-drug-trial-limits-10-year-disability-progression/"
+    },
+    {
+      "id": "2026-11-13-mri-myelin-repair-signs",
+      "added": "2026-11-13",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/12/2026",
+      "title": "MRI technique may show signs of myelin repair in MS",
+      "summary": "A study from China of 145 people with MS found that rises in an MRI myelin measure inside lesions tracked with better disability scores over about a year. It was observational, a link, not proof, and the scan is not yet validated.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/12/mri-technique-may-show-signs-myelin-repair-multiple-sclerosis/"
+    },
+    {
+      "id": "2026-11-13-music-4-ms-feasibility",
+      "added": "2026-11-13",
+      "order": 3,
+      "tag": "Living with MS",
+      "when": "11/09/2026",
+      "title": "Music-based program for thinking and mood tested in small MS trial",
+      "summary": "In a small trial of 29 people with MS, a music program was found acceptable, with some hints of lower anxiety and depression. Most thinking-test differences were not statistically significant.",
+      "why": "The authors say larger trials are needed before drawing conclusions.",
+      "source": "International Journal of MS Care (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13746995"
+    },
+    {
+      "id": "2026-11-13-menopause-ms-guest-voice",
+      "added": "2026-11-13",
+      "order": 4,
+      "tag": "Living with MS",
+      "when": "11/12/2026",
+      "title": "Column: why we need more research on menopause and MS",
+      "summary": "A reader-written opinion column by a woman with MS argues that little research looks at how menopause affects MS symptoms and treatment. She calls for neurologists and gynecologists to talk more.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/guest-voice/2026/11/12/guest-voice-why-we-need-more-research-menopause/"
     }
   ]
 }

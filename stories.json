@@ -1,31 +1,7 @@
 {
-  "lastUpdated": "2026-11-13",
-  "lastChecked": "2026-11-13",
+  "lastUpdated": "2026-11-14",
+  "lastChecked": "2026-11-14",
   "stories": [
-    {
-      "id": "2026-10-18-parental-stress-pediatric-ms",
-      "added": "2026-10-18",
-      "order": 4,
-      "tag": "Living with MS",
-      "when": "10/13/2026",
-      "title": "Parental stress may help explain low self-esteem in teens with MS",
-      "summary": "In a small study of 30 Israeli children and teens with MS, fatigue and slower thinking were tied to lower self-esteem, partly through parental stress. It was a single snapshot, so it cannot show cause.",
-      "why": "Support for families may matter as much as support for the child.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/13/parental-stress-may-link-disease-burden-self-esteem-poms/"
-    },
-    {
-      "id": "2026-10-20-melatonin-review",
-      "added": "2026-10-20",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/19/2026",
-      "title": "Melatonin for MS: benefits still unclear, review finds",
-      "summary": "A review of 10 studies with 435 people with MS found no clear proof that melatonin supplements reduce relapses, disability or new MRI activity. High doses raised liver concerns.",
-      "why": "It shows melatonin is not a proven MS treatment, though it is often sold for sleep.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/"
-    },
     {
       "id": "2026-10-20-generic-ms-drugs-biomarkers",
       "added": "2026-10-20",
@@ -698,6 +674,30 @@
       "summary": "A reader-written opinion column by a woman with MS argues that little research looks at how menopause affects MS symptoms and treatment. She calls for neurologists and gynecologists to talk more.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/guest-voice/2026/11/12/guest-voice-why-we-need-more-research-menopause/"
+    },
+    {
+      "id": "2026-11-14-family-education-program",
+      "added": "2026-11-14",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "11/13/2026",
+      "title": "Family-focused education program improved well-being in small Iranian trial",
+      "summary": "In a randomized trial of 70 people with MS and their caregivers in Iran, pairs who took a family-centered program had bigger gains in healthy habits and well-being than pairs given a booklet. The gains were still seen 2 months later.",
+      "why": "It suggests that involving family in MS self-care may help, though this was a small study from one center.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/13/family-focused-ms-education-program-boosts-patient-mental-health/"
+    },
+    {
+      "id": "2026-11-14-ny-forum-unmet-needs",
+      "added": "2026-11-14",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "11/11/2026",
+      "title": "MS specialists discuss gaps in care and what is next",
+      "summary": "At a clinical forum, MS specialists said strong drugs control relapses but may not stop disability from building up. They saw CAR-T cell therapy as promising but noted open safety questions. This is expert opinion, not a new study.",
+      "why": "Symptoms like bladder trouble, vertigo and vision problems were named as priorities that patients care about.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/new-york-forum-tackles-unmet-needs-multiple-sclerosis-care"
     }
   ]
 }

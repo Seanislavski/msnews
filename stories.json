@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-11-15",
-  "lastChecked": "2026-11-15",
+  "lastUpdated": "2026-11-16",
+  "lastChecked": "2026-11-16",
   "stories": [
-    {
-      "id": "2026-10-21-stem-cell-rim-lesions",
-      "added": "2026-10-21",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/20/2026",
-      "title": "Stem cell transplant may calm lingering inflammation in MS, small study suggests",
-      "summary": "In 30 adults with MS who had a stem cell transplant, some MRI markers of long-lasting inflammation (called rim lesions) faded and no new ones appeared. The study was small, had no comparison group, and the authors say larger studies are needed.",
-      "why": "It hints at how doctors might one day tell who benefits most from a transplant.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/20/stem-cell-transplant-may-help-reduce-chronic-inflammation-ms/"
-    },
     {
       "id": "2026-10-21-ocrelizumab-kids-mri",
       "added": "2026-10-21",
@@ -698,6 +686,18 @@
       "summary": "A Cambridge researcher says trials suggest myelin can be repaired in people, but clear gains in daily function have not been shown yet. He calls for more sensitive measures, earlier enrollment and longer follow-up.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/myelin-repair-research-ms-lessons-clinical-trials-road-ahead"
+    },
+    {
+      "id": "2026-11-16-cognition-podcast-processing-speed",
+      "added": "2026-11-16",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/13/2026",
+      "title": "Expert: thinking changes in MS may be more than slow processing speed",
+      "summary": "In a podcast, a Mount Sinai neuropsychologist said earlier diagnosis and better drugs may have changed how thinking problems look in MS. Word-finding and memory trouble are often reported even when speed tests fall in the normal range.",
+      "why": "It supports taking brain fog and word-finding trouble seriously and mentioning them to your care team.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/episode-179-cognitive-changes-ms-rethinking-processing-speed-memory"
     }
   ]
 }

@@ -1,31 +1,7 @@
 {
-  "lastUpdated": "2026-11-16",
-  "lastChecked": "2026-11-16",
+  "lastUpdated": "2026-11-17",
+  "lastChecked": "2026-11-17",
   "stories": [
-    {
-      "id": "2026-10-21-ocrelizumab-kids-mri",
-      "added": "2026-10-21",
-      "order": 2,
-      "tag": "Treatment",
-      "when": "10/18/2026",
-      "title": "Ocrevus matched fingolimod on relapses in children with MS, with fewer new lesions",
-      "summary": "In a phase 3 trial of 187 children and teens with relapsing MS, Ocrevus worked about as well as fingolimod for relapses and led to fewer new brain lesions on MRI. Infusion reactions were common, mostly mild or moderate. The trial was run by the drug's maker, Roche.",
-      "why": "Children with MS have had few treatment studies, so more data helps families and doctors choose.",
-      "source": "NeurologyLive",
-      "url": "https://www.neurologylive.com/view/ocrelizumab-shows-mri-benefits-fingolimod-phase-3-pediatric-onset-ms-study"
-    },
-    {
-      "id": "2026-10-22-pain-perceived-cognition",
-      "added": "2026-10-22",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/21/2026",
-      "title": "Pain linked to feeling foggy, but not to test scores",
-      "summary": "In 396 adults at one Canadian MS clinic, more pain went with more self-reported thinking and memory trouble. Their actual test results did not match how they felt.",
-      "why": "It suggests pain, mood and fatigue may affect how thinking feels, and are worth mentioning to a care team.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/21/pain-linked-perceived-cognitive-difficulties-ms-study/"
-    },
     {
       "id": "2026-10-22-vitamin-d-receptor-genes",
       "added": "2026-10-22",
@@ -698,6 +674,29 @@
       "why": "It supports taking brain fog and word-finding trouble seriously and mentioning them to your care team.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/episode-179-cognitive-changes-ms-rethinking-processing-speed-memory"
+    },
+    {
+      "id": "2026-11-17-cholesterol-progressive-ms",
+      "added": "2026-11-17",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/16/2026",
+      "title": "Cholesterol and inflammation markers tied to disability in progressive MS",
+      "summary": "In a study of 106 people with progressive MS, those who could no longer walk had lower HDL (\"good\") cholesterol and higher inflammation markers than those who could still walk. It is a link, not proof of cause.",
+      "why": "It may help researchers find blood markers of worsening disability.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/16/cholesterol-inflammation-shifts-tied-disability-progressive-ms/"
+    },
+    {
+      "id": "2026-11-17-privosegtor-ind",
+      "added": "2026-11-17",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "11/16/2026",
+      "title": "FDA clears testing of privosegtor for acute MS relapses",
+      "summary": "Company news: Oculis says the FDA cleared it to begin studying the experimental drug privosegtor for sudden MS relapses. It is not approved, and earlier results came from optic neuritis, not MS relapse trials.",
+      "source": "BioSpace (company press release)",
+      "url": "https://www.biospace.com/press-releases/oculis-announces-fda-ind-clearance-enabling-acceleration-of-privosegtor-development-program-in-acute-multiple-sclerosis-relapses"
     }
   ]
 }

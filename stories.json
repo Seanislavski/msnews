@@ -1,42 +1,7 @@
 {
-  "lastUpdated": "2026-11-18",
-  "lastChecked": "2026-11-18",
+  "lastUpdated": "2026-11-19",
+  "lastChecked": "2026-11-19",
   "stories": [
-    {
-      "id": "2026-10-23-ms-trust-dizziness",
-      "added": "2026-10-23",
-      "order": 2,
-      "tag": "Living with MS",
-      "when": "10/22/2026",
-      "title": "Podcast: why dizziness and vertigo happen in MS",
-      "summary": "A physiotherapist explains how the body's balance system works, why MS can cause dizziness, vertigo and balance trouble, and what treatment and support exist.",
-      "source": "MS Trust",
-      "url": "https://mstrust.org.uk/information-support/podcasts/why-am-i-dizzy-understanding-dizziness-and-vertigo-ms"
-    },
-    {
-      "id": "2026-10-24-fenebrutinib-lesions",
-      "added": "2026-10-24",
-      "order": 1,
-      "tag": "Treatment",
-      "when": "10/23/2026",
-      "title": "Experimental pill fenebrutinib lowered markers of chronic brain inflammation",
-      "summary": "Company-reported trial data say fenebrutinib cut slowly expanding lesions by up to 30% and relapses by 55% versus Aubagio in relapsing MS. The trials are still ongoing and the drug is not yet approved.",
-      "why": "If approved, it could add a new oral option; the FDA decision is expected in early 2027.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/"
-    },
-    {
-      "id": "2026-10-24-zola-cel-car-t-death",
-      "added": "2026-10-24",
-      "order": 2,
-      "tag": "Research",
-      "when": "10/23/2026",
-      "title": "One death reported in CAR-T trial for MS as early results look promising",
-      "summary": "Bristol Myers Squibb reported one patient died of septic pneumonia 44 days after a CAR-T infusion. Early data in 66 people (safety was the main goal) also showed promising signs in some with progressive MS.",
-      "why": "CAR-T for MS is still experimental and carries real risks, such as serious immune reactions.",
-      "source": "BioSpace",
-      "url": "https://www.biospace.com/drug-development/bms-reveals-death-from-septic-pneumonia-of-multiple-sclerosis-patient-in-car-t-trial"
-    },
     {
       "id": "2026-10-24-vidofludimus-extension",
       "added": "2026-10-24",
@@ -697,6 +662,41 @@
       "why": "Open enrollment is a good time to review your coverage.",
       "source": "MS Association of America",
       "url": "https://mymsaa.org/news/insurance-changes-coming-for-the-ms-community-in-2027/"
+    },
+    {
+      "id": "2026-11-19-cladribine-cognition-4yr",
+      "added": "2026-11-19",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/18/2026",
+      "title": "Most people on cladribine kept their thinking skills over 4 years",
+      "summary": "In a follow-up of 280 people with highly active relapsing MS, about 7 in 10 had no or minimal decline on a processing-speed test. There was no comparison group, and over a third still had new or growing MRI lesions.",
+      "why": "Shows how thinking skills held up for one MS pill, but this follow-up cannot prove the drug was the cause.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/ms-therapy-preserves-cognitive-function-4-years-study-shows/"
+    },
+    {
+      "id": "2026-11-19-ng01-expanded-access",
+      "added": "2026-11-19",
+      "order": 2,
+      "tag": "Treatment",
+      "when": "11/17/2026",
+      "title": "FDA clears limited access to experimental cell therapy NG01 for progressive MS",
+      "summary": "Company news: the FDA cleared an expanded access program for NG01, an unapproved therapy made from a patient's own cells. It is for some people with progressive MS who cannot join trials, starting at the University of Miami.",
+      "why": "It is not approved and its evidence comes from one small earlier trial, so talk with your neurologist.",
+      "source": "BioSpace (company press release)",
+      "url": "https://www.biospace.com/press-releases/neurogenesis-bio-receives-fda-clearance-to-proceed-with-expanded-access-program-for-ng01-in-progressive-multiple-sclerosis"
+    },
+    {
+      "id": "2026-11-19-cbs-40-years-ms-brooklyn",
+      "added": "2026-11-19",
+      "order": 3,
+      "tag": "Living with MS",
+      "when": "11/16/2026",
+      "title": "Brooklyn woman marks 40 years with MS, planning her energy each day",
+      "summary": "A 79-year-old woman with secondary progressive MS describes managing fatigue, walking and vision trouble. Her neurologist says older adults need care that covers mobility, thinking and rehab, not only medicine.",
+      "source": "CBS News New York",
+      "url": "https://www.cbsnews.com/newyork/news/multiple-sclerosis-new-york-senior-brooklyn/"
     }
   ]
 }

@@ -1,41 +1,7 @@
 {
-  "lastUpdated": "2026-11-19",
-  "lastChecked": "2026-11-19",
+  "lastUpdated": "2026-11-20",
+  "lastChecked": "2026-11-20",
   "stories": [
-    {
-      "id": "2026-10-24-vidofludimus-extension",
-      "added": "2026-10-24",
-      "order": 3,
-      "tag": "Treatment",
-      "when": "10/21/2026",
-      "title": "Progressive MS pill vidofludimus: disability trends held in open-label extension",
-      "summary": "In an extension of a phase 2 trial, disability trends from the main trial were kept up by people who stayed on the drug, with no new safety concerns. There was no placebo group, and the main trial missed its brain-volume goal.",
-      "source": "NeurologyLive",
-      "url": "https://www.neurologylive.com/view/calliper-extension-data-show-sustained-disability-outcomes-vidofludimus-calcium-progressive-ms"
-    },
-    {
-      "id": "2026-10-25-thai-malnutrition-risk",
-      "added": "2026-10-25",
-      "order": 1,
-      "tag": "Living with MS",
-      "when": "10/22/2026",
-      "title": "About 4 in 10 adults with MS in a Thai study were at risk of poor nutrition",
-      "summary": "A small single-center study in Thailand found about 42% of 100 adults with MS were malnourished or at risk. Poorer nutrition went with lower body weight and more disability, but this design cannot show cause.",
-      "why": "Eating well is part of care, and it is fine to ask your care team about it.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/22/small-thai-study-finds-high-malnutrition-risk-rate-ms-patients/"
-    },
-    {
-      "id": "2026-10-25-azer-cel-progressive-ms",
-      "added": "2026-10-25",
-      "order": 2,
-      "tag": "Treatment",
-      "when": "10/23/2026",
-      "title": "Early CAR-T results in 26 people with progressive MS",
-      "summary": "Company news: in a small early-stage study, most people tracked kept stable or better disability scores, and no new MRI lesions were seen. Follow-up was short and there was no comparison group.",
-      "source": "Business Wire (TG Therapeutics)",
-      "url": "https://baytobaynews.com/daily-state-news/stories/tg-therapeutics-announces-phase-1-data-evaluating-azer-cel-in-progressive-multiple-sclerosis-in-a,356961"
-    },
     {
       "id": "2026-10-25-ocrevus-older-adults",
       "added": "2026-10-25",
@@ -697,6 +663,40 @@
       "summary": "A 79-year-old woman with secondary progressive MS describes managing fatigue, walking and vision trouble. Her neurologist says older adults need care that covers mobility, thinking and rehab, not only medicine.",
       "source": "CBS News New York",
       "url": "https://www.cbsnews.com/newyork/news/multiple-sclerosis-new-york-senior-brooklyn/"
+    },
+    {
+      "id": "2026-11-20-sexual-health-men-ms",
+      "added": "2026-11-20",
+      "order": 1,
+      "tag": "Living with MS",
+      "when": "11/19/2026",
+      "title": "Men with MS ranked sexual health as their top research priority",
+      "summary": "In an Australian survey of 775 men with MS, sexual function ranked first among 14 men's health topics. Sexual difficulties affect an estimated 50 to 90 percent of men with MS.",
+      "why": "It is common, and men can raise it with their care team.",
+      "source": "MS Australia",
+      "url": "https://www.msaustralia.org.au/news/sexual-health-identified-as-a-leading-health-priority-for-men-with-ms/"
+    },
+    {
+      "id": "2026-11-20-motor-fatigue-review",
+      "added": "2026-11-20",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/17/2026",
+      "title": "Review: MS fatigue may partly come from extra effort to move",
+      "summary": "Researchers reviewing existing evidence suggest that some MS fatigue comes from the motor system working harder and recovering less fully after activity. It is a review that proposes ideas to test, not a new trial.",
+      "source": "Brain (Oxford University Press)",
+      "url": "https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awag408/9071128"
+    },
+    {
+      "id": "2026-11-20-furapyrrodole-mice",
+      "added": "2026-11-20",
+      "order": 3,
+      "tag": "Research",
+      "when": "11/19/2026",
+      "title": "Experimental molecule furapyrrodole aided brain repair in mice",
+      "summary": "In lab cells and mice with an MS-like condition, the molecule helped cells mature into myelin-making cells and improved movement. This is early lab work, not tested in people.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/19/scientists-identify-molecule-boost-brain-repair-ms/"
     }
   ]
 }

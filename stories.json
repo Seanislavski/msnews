@@ -1,42 +1,7 @@
 {
-  "lastUpdated": "2026-11-20",
-  "lastChecked": "2026-11-20",
+  "lastUpdated": "2026-11-21",
+  "lastChecked": "2026-11-21",
   "stories": [
-    {
-      "id": "2026-10-25-ocrevus-older-adults",
-      "added": "2026-10-25",
-      "order": 3,
-      "tag": "Treatment",
-      "when": "10/21/2026",
-      "title": "Ocrevus worked similarly in people over 55, company reports",
-      "summary": "Company news: in a trial, 53% of people over 55 had no disability progression after two years, close to 55% in younger people. Results come from a conference presentation.",
-      "why": "Older adults are often left out of MS trials, so this is useful to see.",
-      "source": "Roche",
-      "url": "https://www.roche.com/media/releases/med-cor-2026-10-21"
-    },
-    {
-      "id": "2026-10-26-vision-quality-depression",
-      "added": "2026-10-26",
-      "order": 1,
-      "tag": "Living with MS",
-      "when": "10/20/2026",
-      "title": "Poorer vision-related quality of life went with more depression symptoms",
-      "summary": "In a study of 458 adults in China with MS or a related condition (NMOSD), those who felt vision problems hurt daily life were more likely to screen positive for depression. This was a snapshot in time, so it cannot show cause.",
-      "why": "It suggests that how vision problems affect daily life, not only how bad the vision is, may be worth mentioning to a care team.",
-      "source": "Frontiers in Neurology",
-      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1975600/full"
-    },
-    {
-      "id": "2026-10-26-car-t-miv-cel-six",
-      "added": "2026-10-26",
-      "order": 2,
-      "tag": "Research",
-      "when": "10/23/2026",
-      "title": "Company reports CAR-T cell therapy held disability steady in a few people with progressive MS",
-      "summary": "Kyverna reported that 5 of 6 people with progressive MS in a small early trial at Stanford were stable or improved, with no severe cytokine reactions. This is company news from a very small, uncontrolled study.",
-      "source": "Kyverna Therapeutics (via Manila Times)",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/kyverna-therapeutics-highlights-promising-updated-clinical-data-with-miv-cel-in-progressive-multiple-sclerosis-at-ms-toronto-2026/2452958"
-    },
     {
       "id": "2026-10-26-sc-ocrelizumab-switch",
       "added": "2026-10-26",
@@ -697,6 +662,40 @@
       "summary": "In lab cells and mice with an MS-like condition, the molecule helped cells mature into myelin-making cells and improved movement. This is early lab work, not tested in people.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/19/scientists-identify-molecule-boost-brain-repair-ms/"
+    },
+    {
+      "id": "2026-11-21-autoimmune-grants",
+      "added": "2026-11-21",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/20/2026",
+      "title": "Six small grants fund studies of shared drivers of MS, lupus and diabetes",
+      "summary": "The National MS Society and two other groups will give six researchers up to $150,000 each for one-year pilot studies. The studies look at biology that may be shared by MS, type 1 diabetes and lupus.",
+      "why": "Findings in one autoimmune disease may help point to new ideas for MS.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/20/grants-fund-6-studies-shared-drivers-diabetes-lupus-ms/"
+    },
+    {
+      "id": "2026-11-21-aged-care-survey",
+      "added": "2026-11-21",
+      "order": 2,
+      "tag": "Events",
+      "when": "11/16/2026",
+      "title": "Australians with MS asked to share aged care experiences by Dec. 14",
+      "summary": "MS Australia has opened a 15 to 20 minute online survey about aged care. It will shape the group's submission to a government review of aged care reforms.",
+      "source": "MS Australia",
+      "url": "https://www.msaustralia.org.au/news/have-your-say-on-aged-care-for-people-living-with-ms/"
+    },
+    {
+      "id": "2026-11-21-dance-floor-column",
+      "added": "2026-11-21",
+      "order": 3,
+      "tag": "Living with MS",
+      "when": "11/20/2026",
+      "title": "Column: resting and acupuncture helped one woman reach the dance floor",
+      "summary": "A doctor with MS writes about severe vertigo that nearly kept her from a night out. She used acupuncture and a deliberate rest and nap to make it. This is one personal opinion piece, not research.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/columns/2026/11/20/ms-symptoms-getting-way-dance-floor-calling/"
     }
   ]
 }

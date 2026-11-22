@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-11-21",
-  "lastChecked": "2026-11-21",
+  "lastUpdated": "2026-11-22",
+  "lastChecked": "2026-11-22",
   "stories": [
-    {
-      "id": "2026-10-26-sc-ocrelizumab-switch",
-      "added": "2026-10-26",
-      "order": 3,
-      "tag": "Treatment",
-      "when": "10/22/2026",
-      "title": "Switching to injected Ocrevus was well tolerated in a real-world study",
-      "summary": "In 296 people who switched from IV Ocrevus to the under-the-skin version, no new safety problems appeared and injection-site reactions were rare and mild. Most switched by patient preference.",
-      "why": "This may matter to people who would rather avoid long infusion visits.",
-      "source": "NeurologyLive",
-      "url": "https://www.neurologylive.com/view/real-world-data-show-switch-subcutaneous-ocrelizumab-well-tolerated"
-    },
     {
       "id": "2026-10-26-blurry-vision-uveitis",
       "added": "2026-10-26",
@@ -696,6 +684,18 @@
       "summary": "A doctor with MS writes about severe vertigo that nearly kept her from a night out. She used acupuncture and a deliberate rest and nap to make it. This is one personal opinion piece, not research.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/columns/2026/11/20/ms-symptoms-getting-way-dance-floor-calling/"
+    },
+    {
+      "id": "2026-11-22-pregnancy-brain-volume",
+      "added": "2026-11-22",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/18/2026",
+      "title": "Brain volume dipped after childbirth in women with MS, then mostly recovered",
+      "summary": "In 247 women with MS, total brain volume fell by about 0.9% in the first three months after childbirth and generally returned toward earlier levels within one to two years. Lesion volume did not change. The study shows a link, not proof of cause.",
+      "why": "The researchers say the dip appears to be a normal part of pregnancy rather than a sign of MS getting worse.",
+      "source": "News-Medical (Neurology Open Access study)",
+      "url": "https://www.news-medical.net/news/20261119/Pregnancy-causes-temporary-brain-volume-loss-in-multiple-sclerosis-patientsy.aspx"
     }
   ]
 }

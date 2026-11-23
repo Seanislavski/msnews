@@ -1,18 +1,7 @@
 {
-  "lastUpdated": "2026-11-22",
-  "lastChecked": "2026-11-22",
+  "lastUpdated": "2026-11-23",
+  "lastChecked": "2026-11-23",
   "stories": [
-    {
-      "id": "2026-10-26-blurry-vision-uveitis",
-      "added": "2026-10-26",
-      "order": 4,
-      "tag": "Research",
-      "when": "10/20/2026",
-      "title": "Blurry vision in MS is not always an optic neuritis relapse",
-      "summary": "At a major eye meeting, doctors discussed a records study finding that people with MS-type disease and past optic neuritis had about twice the 5-year risk of uveitis (eye inflammation), though the absolute risk was low at 1.1% versus 0.6%.",
-      "source": "Ophthalmology Times",
-      "url": "https://www.ophthalmologytimes.com/view/neuroop-guru-at-aao-2026-blurry-vision-in-ms-isn-t-always-a-relapse"
-    },
     {
       "id": "2026-10-27-fenebrutinib-phase3-relapses",
       "added": "2026-10-27",
@@ -696,6 +685,18 @@
       "why": "The researchers say the dip appears to be a normal part of pregnancy rather than a sign of MS getting worse.",
       "source": "News-Medical (Neurology Open Access study)",
       "url": "https://www.news-medical.net/news/20261119/Pregnancy-causes-temporary-brain-volume-loss-in-multiple-sclerosis-patientsy.aspx"
+    },
+    {
+      "id": "2026-11-23-bermel-progression-gap",
+      "added": "2026-11-23",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "11/12/2026",
+      "title": "MS specialist: relapses are better controlled, progression still a gap",
+      "summary": "In an interview, Cleveland Clinic neurologist Robert Bermel said modern drugs control inflammation and relapses well, but progressive MS is still hard to treat and track. He said oral BTK inhibitors are a promising near-term option, based on early trial results.",
+      "why": "It shows where MS care is improving and where research is still needed.",
+      "source": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/headlining-current-advances-challenges-multiple-sclerosis-care"
     }
   ]
 }

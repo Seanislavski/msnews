@@ -1,55 +1,7 @@
 {
-  "lastUpdated": "2026-11-23",
-  "lastChecked": "2026-11-23",
+  "lastUpdated": "2026-11-24",
+  "lastChecked": "2026-11-24",
   "stories": [
-    {
-      "id": "2026-10-27-fenebrutinib-phase3-relapses",
-      "added": "2026-10-27",
-      "order": 1,
-      "tag": "Treatment",
-      "when": "10/21/2026",
-      "title": "Fenebrutinib pill cut relapses 55% versus teriflunomide in relapsing MS",
-      "summary": "Company news: Roche says two combined phase 3 trials found the experimental pill cut yearly relapses by 55% over 96 weeks compared with teriflunomide, and slowed brain shrinkage. Disability worsening was 16% lower.",
-      "why": "It shows how far this pill has come, but it is not yet approved.",
-      "source": "Roche (company press release)",
-      "url": "https://www.roche.com/media/releases/med-cor-2026-10-21"
-    },
-    {
-      "id": "2026-10-27-ebv-genes-ms-risk",
-      "added": "2026-10-27",
-      "order": 2,
-      "tag": "Research",
-      "when": "10/26/2026",
-      "title": "Yale team links Epstein-Barr virus activity genes to MS risk",
-      "summary": "In a conference presentation of work not yet peer reviewed, researchers studied over 600,000 people and found gene regions tied to Epstein-Barr virus activity that overlap with MS risk genes. A small look at 38 people found infected immune cells carrying MS-risk activity.",
-      "why": "It adds to the evidence on how the common virus may contribute to MS.",
-      "source": "NeurologyLive",
-      "url": "https://www.neurologylive.com/view/investigatin-genetic-link-between-ebv-ms-risk-david-hafler-yoshiaki-yasumizu"
-    },
-    {
-      "id": "2026-10-28-zola-cel-car-t-66-people",
-      "added": "2026-10-28",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/25/2026",
-      "title": "CAR-T therapy zola-cel: early results in 66 people with relapsing or progressive MS",
-      "summary": "Company news: in a small early-stage trial with no comparison group, most people checked after 6 months had stable or improved disability. Serious side effects occurred, and one person died of pneumonia after treatment.",
-      "why": "It is early safety data, not proof the treatment works or is ready for patients.",
-      "source": "Bristol Myers Squibb (via BioSpace)",
-      "url": "https://www.biospace.com/press-releases/bristol-myers-squibb-presents-results-from-phase-1-breakfree-2-study-of-zolacabtagene-autoleucel-bms-986353-in-patients-with-highly-active-relapsing-and-progressive-forms-of-multiple-sclerosis-at-mstoronto-2026"
-    },
-    {
-      "id": "2026-10-29-cbt-depression-newly-diagnosed",
-      "added": "2026-10-29",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/28/2026",
-      "title": "A tailored talk-therapy program eased depression in newly diagnosed MS",
-      "summary": "In a small randomized study of 60 adults in Australia, 63% who had 8 weeks of tailored cognitive behavioral therapy had a clear drop in depression, versus 33% with supportive listening. The benefit was still seen at week 28.",
-      "why": "Low mood is common early in MS, and this suggests talk therapy built for MS may help.",
-      "source": "MS Australia",
-      "url": "https://www.msaustralia.org.au/news/australian-tailored-cbt-program-relieves-depression-in-newly-diagnosed-ms/"
-    },
     {
       "id": "2026-10-29-family-planning-survey",
       "added": "2026-10-29",
@@ -697,6 +649,52 @@
       "why": "It shows where MS care is improving and where research is still needed.",
       "source": "NeurologyLive",
       "url": "https://www.neurologylive.com/view/headlining-current-advances-challenges-multiple-sclerosis-care"
+    },
+    {
+      "id": "2026-11-24-fda-nfl-blood-test",
+      "added": "2026-11-24",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "11/23/2026",
+      "title": "FDA authorizes first blood test of neurofilament light chain for MS",
+      "summary": "The FDA granted marketing authorization to Siemens Healthineers for a blood test that measures neurofilament light chain, a sign of nerve injury. It is meant to help doctors check ongoing disease activity in adults 18 to 55 with relapsing-remitting MS. This is company news.",
+      "why": "It is meant to be used alongside exams and MRI, not instead of them.",
+      "source": "Siemens Healthineers (via BioSpace)",
+      "url": "https://www.biospace.com/press-releases/fda-grants-first-marketing-authorization-for-neurofilament-light-chain-blood-test-to-siemens-healthineers-for-use-in-multiple-sclerosis"
+    },
+    {
+      "id": "2026-11-24-inflammation-ms-risk",
+      "added": "2026-11-24",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/23/2026",
+      "title": "Chronic low-grade inflammation linked to higher MS risk in large study",
+      "summary": "In about 377,000 UK adults followed for a median of nearly 14 years, higher blood inflammation scores went with a 38% higher chance of later being diagnosed with MS. This is a link, not proof that inflammation causes MS.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/23/chronic-low-grade-inflammation-tied-higher-ms-risk-study-finds/"
+    },
+    {
+      "id": "2026-11-24-mstrust-ectrims-podcast",
+      "added": "2026-11-24",
+      "order": 3,
+      "tag": "Events",
+      "when": "11/23/2026",
+      "title": "MS Trust podcast reviews highlights from the 2026 ECTRIMS research meeting",
+      "summary": "A podcast episode covers earlier diagnosis, preventing MS, new treatments, women's health, AI and wearables, and living well with MS.",
+      "why": "A plain-language way to catch up on this year's big research meeting.",
+      "source": "MS Trust",
+      "url": "https://mstrust.org.uk/information-support/podcasts/highlights-ectrims-2026"
+    },
+    {
+      "id": "2026-11-24-overcomingms-webinar-nov25",
+      "added": "2026-11-24",
+      "order": 4,
+      "tag": "Events",
+      "when": "11/25/2026",
+      "title": "Free online talk Wednesday on research from the 2026 ACTRIMS-ECTRIMS meeting",
+      "summary": "Overcoming MS hosts a panel on MSToronto2026 research, 7:00 to 8:15 PM GMT on November 25. It is online and aimed at both newly diagnosed people and those who have lived with MS for years.",
+      "source": "Overcoming MS (Eventbrite)",
+      "url": "https://www.eventbrite.co.uk/e/actrims-ectrims-2026-insight-into-the-latest-ms-research-tickets-2003916113038"
     }
   ]
 }

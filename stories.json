@@ -1,42 +1,7 @@
 {
-  "lastUpdated": "2026-11-24",
-  "lastChecked": "2026-11-24",
+  "lastUpdated": "2026-11-25",
+  "lastChecked": "2026-11-25",
   "stories": [
-    {
-      "id": "2026-10-29-family-planning-survey",
-      "added": "2026-10-29",
-      "order": 2,
-      "tag": "Living with MS",
-      "when": "10/28/2026",
-      "title": "MS shaped family planning for nearly half of women in an Australian survey",
-      "summary": "Among 270 people with MS aged 18 to 50, MS affected family planning for nearly half of women and almost a third of men. Many said they never got information on fertility or contraception, and about half wanted the talk to start at diagnosis.",
-      "source": "MS Australia",
-      "url": "https://www.msaustralia.org.au/news/how-ms-affects-family-planning-decisions/"
-    },
-    {
-      "id": "2026-10-29-emsp-movement-brain-health-webinar",
-      "added": "2026-10-29",
-      "order": 3,
-      "tag": "Events",
-      "when": "10/29/2026",
-      "title": "Free online talk today: staying active for brain health",
-      "summary": "The European MS Platform is hosting an online webinar, Movement for Brain Health, on Thursday, October 29 from 16:00 to 17:00 Central European Time. A sports neuroscientist from TU Dortmund University and a patient advocate will speak; sign-up is on the event page.",
-      "why": "It covers staying active at different ability levels.",
-      "source": "European MS Platform (EMSP)",
-      "url": "https://emsp.org/events/webinar-movement-for-brain-health/"
-    },
-    {
-      "id": "2026-10-30-long-term-forgetting",
-      "added": "2026-10-30",
-      "order": 1,
-      "tag": "Research",
-      "when": "10/26/2026",
-      "title": "People with MS forgot more after one week in a small German study",
-      "summary": "In a study of 62 people with MS and 65 without, both groups remembered similarly at 30 minutes. A week later, the MS group remembered less.",
-      "why": "Memory tests that wait a week may catch problems that quick tests miss.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/26/study-links-ms-greater-long-term-memory-loss-time/"
-    },
     {
       "id": "2026-10-30-vaccine-willingness",
       "added": "2026-10-30",
@@ -695,6 +660,40 @@
       "summary": "Overcoming MS hosts a panel on MSToronto2026 research, 7:00 to 8:15 PM GMT on November 25. It is online and aimed at both newly diagnosed people and those who have lived with MS for years.",
       "source": "Overcoming MS (Eventbrite)",
       "url": "https://www.eventbrite.co.uk/e/actrims-ectrims-2026-insight-into-the-latest-ms-research-tickets-2003916113038"
+    },
+    {
+      "id": "2026-11-25-briumvi-single-infusion-start",
+      "added": "2026-11-25",
+      "order": 1,
+      "tag": "Treatment",
+      "when": "11/24/2026",
+      "title": "FDA reviewing one-infusion start for Briumvi",
+      "summary": "Company news: TG Therapeutics says the FDA accepted its request to let Briumvi treatment begin with one infusion instead of two. A decision is due by July 10, 2027, and the current two-infusion start stays in place until then.",
+      "why": "If approved, starting this MS drug could take one clinic visit fewer.",
+      "source": "BioPharm International",
+      "url": "https://biopharminternational.com/view/fda-accepts-tg-therapeutics-sbla-for-single-infusion-briumvi-initiation-in-relapsing-multiple-sclerosis"
+    },
+    {
+      "id": "2026-11-25-ocrevus-infection-older-adults",
+      "added": "2026-11-25",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/24/2026",
+      "title": "Older adults on Ocrevus had more infection hospital stays",
+      "summary": "In a records review of 1,600 people with MS aged 55 and older, those on Ocrevus were hospitalized for infections more than twice as often as those not on it. It was an observational study, so it shows a link, not proof.",
+      "source": "MS Association of America",
+      "url": "https://mymsaa.org/news/whats-new-in-ms-research-november-2026/"
+    },
+    {
+      "id": "2026-11-25-ms-australia-medications-symposium",
+      "added": "2026-11-25",
+      "order": 3,
+      "tag": "Events",
+      "when": "11/25/2026",
+      "title": "Free MS medications symposium in Melbourne today",
+      "summary": "MS Australia and the Florey Institute mark 30 years of MS drug treatments with talks on how care has changed and what is coming next. It is in person only, free, and registration is required.",
+      "source": "MS Australia",
+      "url": "https://www.msaustralia.org.au/events/symposium-2026/"
     }
   ]
 }

@@ -1,30 +1,7 @@
 {
-  "lastUpdated": "2026-11-25",
-  "lastChecked": "2026-11-25",
+  "lastUpdated": "2026-11-26",
+  "lastChecked": "2026-11-26",
   "stories": [
-    {
-      "id": "2026-10-30-vaccine-willingness",
-      "added": "2026-10-30",
-      "order": 2,
-      "tag": "Living with MS",
-      "when": "10/27/2026",
-      "title": "Willingness to get vaccines fell among German adults with MS",
-      "summary": "In 175 adults followed for five years, willingness to get all recommended vaccines fell from 81% to 66%. Doctors discussing vaccines rose from 34% to 71%.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/27/vaccine-fatigue-rises-ms-covid-19-pandemic-new-study/"
-    },
-    {
-      "id": "2026-10-30-mcdonald-2024-diagnosis",
-      "added": "2026-10-30",
-      "order": 3,
-      "tag": "Research",
-      "when": "10/28/2026",
-      "title": "Updated MS diagnosis rules found MS earlier in a six-center European study",
-      "summary": "The 2024 criteria led to diagnosis in about 4 months on average, versus about 16 with the 2017 rules, and caught more people (82% vs 63%). The study had no control group and short follow-up.",
-      "why": "Earlier diagnosis can mean earlier treatment.",
-      "source": "MS Australia",
-      "url": "https://www.msaustralia.org.au/news/unifying-ms-research-updates-from-mstoronto2026/"
-    },
     {
       "id": "2026-10-31-early-ms-treatments-relapses",
       "added": "2026-10-31",
@@ -694,6 +671,29 @@
       "summary": "MS Australia and the Florey Institute mark 30 years of MS drug treatments with talks on how care has changed and what is coming next. It is in person only, free, and registration is required.",
       "source": "MS Australia",
       "url": "https://www.msaustralia.org.au/events/symposium-2026/"
+    },
+    {
+      "id": "2026-11-26-ebv-mouse-genetics",
+      "added": "2026-11-26",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/23/2026",
+      "title": "Mouse study: genes may shape how the body controls an EBV-like virus",
+      "summary": "In mice infected with a virus related to Epstein-Barr, strains that controlled it poorly built up virus-specific immune cells in the brain before any autoimmune disease appeared. This is mouse work, not human data.",
+      "why": "It may help explain why most people carry Epstein-Barr virus but only some develop MS.",
+      "source": "University of Vermont",
+      "url": "https://www.uvm.edu/uvmnews/news/uvm-study-offers-clues-why-epstein-barr-virus-leads-ms-some-people"
+    },
+    {
+      "id": "2026-11-26-migraine-column",
+      "added": "2026-11-26",
+      "order": 2,
+      "tag": "Living with MS",
+      "when": "11/25/2026",
+      "title": "Column: the hardest part of MS migraines is the waiting in between",
+      "summary": "A columnist with MS describes living with migraines that come and go, and the worry about when the next one will arrive. This is one person's account, not research.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/columns/2026/11/25/hardest-part-ms-migraines-living-space-between/"
     }
   ]
 }

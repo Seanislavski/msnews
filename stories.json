@@ -1,30 +1,7 @@
 {
-  "lastUpdated": "2026-11-26",
-  "lastChecked": "2026-11-26",
+  "lastUpdated": "2026-11-27",
+  "lastChecked": "2026-11-27",
   "stories": [
-    {
-      "id": "2026-10-31-early-ms-treatments-relapses",
-      "added": "2026-10-31",
-      "order": 1,
-      "tag": "Treatment",
-      "when": "10/29/2026",
-      "title": "Early MS drugs differed on relapses but not disability over 2 years",
-      "summary": "In 509 newly diagnosed adults in Europe, B-cell-depleting drugs were tied to fewer relapses and slightly smaller lesion growth than pills. Disability did not differ between treatments.",
-      "why": "This was an observational study, so it shows a link, not proof, and only two years were tracked.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/29/early-ms-therapies-differ-relapses-not-disability-study-finds/"
-    },
-    {
-      "id": "2026-10-31-exercise-programs-review",
-      "added": "2026-10-31",
-      "order": 2,
-      "tag": "Living with MS",
-      "when": "10/29/2026",
-      "title": "Health-professional-led exercise programs for MS look workable, review finds",
-      "summary": "A review of 25 studies covering 28 programs found they seemed acceptable and doable for adults with MS. None had been tested in routine clinical care yet.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/29/physical-activity-programs-people-ms-show-early-promise/"
-    },
     {
       "id": "2026-10-31-disability-and-thinking-review",
       "added": "2026-10-31",
@@ -694,6 +671,29 @@
       "summary": "A columnist with MS describes living with migraines that come and go, and the worry about when the next one will arrive. This is one person's account, not research.",
       "source": "Multiple Sclerosis News Today",
       "url": "https://multiplesclerosisnewstoday.com/columns/2026/11/25/hardest-part-ms-migraines-living-space-between/"
+    },
+    {
+      "id": "2026-11-27-vitamin-d-fatigue-saudi",
+      "added": "2026-11-27",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/23/2026",
+      "title": "Low vitamin D common in Saudi MS group; link to fatigue confidence unclear",
+      "summary": "In 246 adults with MS in one Saudi region, about 3 in 4 with a recorded value had vitamin D below 30 ng/mL. Vitamin D showed only a weak, non-linear link to fatigue self-efficacy (confidence in managing fatigue), and not in simpler models. This is a link, not proof.",
+      "why": "The authors say vitamin D is not the main factor; work interference and body weight mattered more.",
+      "source": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0362350"
+    },
+    {
+      "id": "2026-11-27-hippocampus-cognition",
+      "added": "2026-11-27",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/25/2026",
+      "title": "Smaller hippocampus linked to thinking problems in a small MS study",
+      "summary": "In a small MRI study of 20 people with MS and 23 without, MS was tied to smaller hippocampal areas and higher brain \"entropy\" (a measure of signal irregularity). Both tracked with lower thinking-test scores. It is a link at one point in time, not proof of cause.",
+      "source": "Scienmag (Journal of Translational Medicine study)",
+      "url": "https://scienmag.com/multiple-sclerosis-cognitive-deficits-linked-to-hippocampal-volume-loss-and-elevated-entropy/"
     }
   ]
 }

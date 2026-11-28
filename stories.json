@@ -1,31 +1,7 @@
 {
-  "lastUpdated": "2026-11-27",
-  "lastChecked": "2026-11-27",
+  "lastUpdated": "2026-11-28",
+  "lastChecked": "2026-11-28",
   "stories": [
-    {
-      "id": "2026-10-31-disability-and-thinking-review",
-      "added": "2026-10-31",
-      "order": 3,
-      "tag": "Research",
-      "when": "10/30/2026",
-      "title": "More physical disability went with poorer thinking skills in MS",
-      "summary": "A review of 223 studies found greater physical disability was linked to lower scores on thinking tests, mostly in advanced disease. Thinking problems also showed up with mild physical disability.",
-      "why": "Thinking changes can be missed by standard disability checks.",
-      "source": "Multiple Sclerosis News Today",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/30/review-study-links-physical-disability-cognitive-problems-ms/"
-    },
-    {
-      "id": "2026-11-01-rituximab-ibd",
-      "added": "2026-11-01",
-      "order": 1,
-      "tag": "Treatment",
-      "when": "10/22/2026",
-      "title": "Rituximab tied to a higher chance of bowel disease in a large Swedish study",
-      "summary": "In nearly 14,000 treatment episodes, bowel disease (mostly Crohn's) was more common with rituximab than with three other MS drugs. It was still rare: under 2% of people in any group within 10 years. This is a link, not proof.",
-      "why": "If you take rituximab, this is something to ask your neurologist about; the study says the risk should be weighed against its benefits.",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-10-common-multiple-sclerosis-treatment-linked.html"
-    },
     {
       "id": "2026-11-01-ms-three-parts",
       "added": "2026-11-01",
@@ -694,6 +670,29 @@
       "summary": "In a small MRI study of 20 people with MS and 23 without, MS was tied to smaller hippocampal areas and higher brain \"entropy\" (a measure of signal irregularity). Both tracked with lower thinking-test scores. It is a link at one point in time, not proof of cause.",
       "source": "Scienmag (Journal of Translational Medicine study)",
       "url": "https://scienmag.com/multiple-sclerosis-cognitive-deficits-linked-to-hippocampal-volume-loss-and-elevated-entropy/"
+    },
+    {
+      "id": "2026-11-28-gut-bacteria-counts",
+      "added": "2026-11-28",
+      "order": 1,
+      "tag": "Research",
+      "when": "11/24/2026",
+      "title": "Counting gut bacteria points to markers linked with MS",
+      "summary": "Belgian researchers adjusted for how fast food moves through the gut and found some helpful-type bacteria were less common in people with MS. These are links, not proof of cause.",
+      "why": "The researchers advise against taking probiotics based on these results.",
+      "source": "EurekAlert (VUB, VIB-KU Leuven)",
+      "url": "https://www.eurekalert.org/news-releases/1153206"
+    },
+    {
+      "id": "2026-11-28-exercise-gut-bacteria-kids",
+      "added": "2026-11-28",
+      "order": 2,
+      "tag": "Research",
+      "when": "11/23/2026",
+      "title": "Active children with MS had different gut bacteria in small study",
+      "summary": "In 113 young people, those with pediatric-onset MS who were more active had more of some gut bacteria such as Roseburia. Activity was self-reported, and the study cannot show cause and effect.",
+      "source": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/23/exercise-influence-gut-bacteria-children-ms-study-finds/"
     }
   ]
 }
